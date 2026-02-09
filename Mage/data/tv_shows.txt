@@ -1,0 +1,528 @@
+show_id	show_title	show_logline	show_genres	show_vibes	show_release_years	show_season	show_eps_per_season	show_ratings	show_platform
+1	16 and Pregnant	Documenting the lives of several pregnant teenagers as they face motherhood.	Reality-TV	"Dramatic, Realistic"	2009-Present	6	12	4.9	Amazon Prime Video
+2	1883	"A prequel to 'Yellowstone', follow the Dutton family as they embark on a journey west through the last bastion of untamed America."	"Western, Drama"	"Gritty, Epic"	2021-2022	1	10	8.7	Netflix
+3	24	Counterterrorism agent Jack Bauer races against the clock to subvert terrorist plots.	"Action, Crime, Drama"	"Intense, Fast-Paced"	2001-2010	9	24	8.4	Google Play Movies
+4	3 Body Problem	A fateful decision in 1960s China echoes across space and time to a group of scientists in the present day.	"Adventure, Drama, Sci-Fi"	"Thought-Provoking, Epic"	2024-Present	1	8	7.5	"HBO Max, Netflix"
+5	30 Rock	Behind-the-scenes of a live sketch comedy show at NBC.	Comedy	"Funny, Fast-Paced"	2006-2013	7	22	8.3	"Google Play Movies, Apple TV+"
+6	4 Blocks	A gangster in Berlin attempts to leave the criminal world for his family.	"Crime, Drama"	"Gritty, Intense"	2017-2019	3	6	8.2	"Disney+ Hotstar, Netflix"
+7	60 Minutes	A newsmagazine program featuring investigative reporting and interviews.	Documentary	"Serious, Intellectual"	1968-Present	56	30	7.7	"HBO Max, Amazon Prime Video"
+8	7th Heaven	"The lives of a minister, his wife, and their seven children in a small town."	"Drama, Family"	"Wholesome, Emotional"	1996-2007	11	22	5.3	"Disney+ Hotstar, Amazon Prime Video"
+9	A Gentleman in Moscow	An aristocrat is spared from death and placed under house arrest while the Bolshevik Revolution plays out before him.	"Drama, History"	"Elegant, Reflective"	2024	1	8	7	"HBO Max, Netflix"
+10	A Shot at Love with Tila Tequila	Tila Tequila looks for love among both men and women.	Reality-TV	"Dramatic, Wacky"	2007-2008	2	10	3.2	Disney+ Hotstar
+11	Abbott Elementary	"A group of dedicated, passionate teachers  ?? and a slightly tone-deaf principal  ?? are brought together in a Philadelphia public school."	Comedy	"Wholesome, Feel-Good"	2021-Present	3	13	8.2	"HBO Max, Apple TV+"
+12	Adventure Time	A 12-year-old boy and his wise 28-year-old dog have various surreal adventures.	"Animation, Adventure"	"Whimsical, Visionary"	2010-2018	10	26	8.6	"Amazon Prime Video, YouTube Movies"
+13	Agatha All Along	A spell-bound Agatha Harkness regains freedom thanks to a goth teen's help.	"Action, Adventure, Comedy"	"Clever, Experimental"	2024	1	9	7.2	Disney+ Hotstar
+14	Alias	"Sydney Bristow is a young, athletic, college graduate who was recruited by what she thought was a secret arm of the CIA."	"Action, Mystery"	"Stylish, Intense"	2001-2006	5	22	7.6	Netflix
+15	Alice in Borderland	A gamer finds himself in a parallel world where he must play games to survive.	"Sci-Fi, Thriller"	"Violent, strategic"	2020-2022	2	8	7.7	"YouTube Movies, Amazon Prime Video"
+16	Alien: Earth	"A mysterious space vessel crash-lands on Earth, leading to a terrifying discovery."	"Sci-Fi, Horror"	"Intense, Dark"	2025-Present	1	8	7.9	Netflix
+17	All My Children	The lives and loves of the residents of the fictional Pine Valley.	Drama	"Dramatic, Intense"	1970-2011	41	250	6.5	"Apple TV+, Amazon Prime Video"
+18	Ally McBeal	The personal and professional life of a young lawyer working in a quirky Boston law firm.	"Comedy, Drama"	"Wacky, Whimsical"	1997-2002	5	22	6.9	"Netflix, HBO Max"
+19	America's Next Top Model	Aspiring models compete in various challenges for a chance to win a contract.	Reality-TV	"Dramatic, Competitive"	2003-2018	24	13	5.6	Netflix
+20	American Dad!	"The escapades of Stan Smith, a conservative CIA agent, and his family."	"Animation, Comedy"	"Satirical, Wacky"	2005-Present	20	22	7.5	YouTube Movies
+21	American Dragon: Jake Long	A 13-year-old boy balances his life as a teen with being a magical dragon.	"Animation, Action"	"Whimsical, Fun"	2005-2007	2	21	6.6	YouTube Movies
+22	American Horror Story	An anthology series centering on different characters and locations with a murderous past.	"Horror, Drama"	"Dark, Intense"	2011-Present	12	11	8	"YouTube Movies, HBO Max"
+23	American Pickers	Two men travel across the country looking for valuable antiques and collectibles.	Reality-TV	"Adventurous, Informative"	2010-Present	25	20	7	Netflix
+24	Ancient Aliens	Explores the theory that extraterrestrial beings have been visiting Earth for millennia.	Documentary	"Visionary, Mysterious"	2009-Present	20	10	7.1	"YouTube Movies, Apple TV+"
+25	Andor	"A prequel series to 'Rogue One', following Cassian Andor's journey into the rebellion."	"Sci-Fi, Action"	"Slow-Burn, Intense"	2022-Present	1	12	8.4	"Amazon Prime Video, Netflix"
+26	Anthony Bourdain: Parts Unknown	Anthony Bourdain travels the world to explore different cultures and cuisines.	"Documentary, Food"	"Reflective, Intellectual"	2013-2018	12	8	8.9	"Apple TV+, HBO Max"
+27	Arcane	"Set in the universe of League of Legends, it follows the origins of two iconic champions."	"Animation, Action"	"Epic, Emotional"	2021-Present	2	9	9	"Disney+ Hotstar, Apple TV+"
+28	Arrested Development	Level-headed son Michael Bluth takes over family affairs after his father is imprisoned.	Comedy	"Clever, Satirical"	2003-2019	5	13	8.7	"HBO Max, Disney+ Hotstar"
+29	Arrow	A billionaire returns home to fight crime as a secret vigilante.	"Action, Crime"	"Dark, Intense"	2012-2020	8	22	7.5	"Disney+ Hotstar, Apple TV+"
+30	Atlanta	Two cousins work through the Atlanta music scene in order to better their lives.	"Comedy, Drama"	"Experimental, Thought-Provoking"	2016-2022	4	10	8.6	Amazon Prime Video
+31	Attack on Titan	Humanity is forced to live in cities surrounded by walls due to the Titans.	"Animation, Action"	"Epic, Intense"	2013-2023	4	25	9.1	Netflix
+32	Avatar: The Last Airbender	A young boy must master the four elements to save the world from the Fire Nation.	"Animation, Adventure"	"Epic, Wholesome"	2005-2008	3	20	9.3	HBO Max
+33	Baby Reindeer	"When a struggling comedian shows a kind act to a vulnerable woman, it unearths a suffocating obsession."	"Biography, Drama, Thriller"	"Intense, Dark"	2024	1	7	7.8	Google Play Movies
+34	Babylon Berlin	A police inspector in 1929 Berlin uncovers a conspiracy involving various factions.	"Crime, Drama"	"Stylish, Dark"	2017-Present	4	12	8.4	"Apple TV+, Google Play Movies"
+35	Bad Girls Club	A group of rebellious women live together in a house for three months.	Reality-TV	"Violent, Dramatic"	2006-2017	17	13	4.7	"Google Play Movies, Netflix"
+36	Band of Brothers	The story of Easy Company of the U.S. Army 101st Airborne Division.	"War, Historical"	"Epic, Emotional"	2001	1	10	9.4	"Google Play Movies, Apple TV+"
+37	Barry	A hitman from the Midwest moves to L.A. and gets caught up in the city's theatre arts scene.	"Comedy, Crime"	"Dark-Humor, Intense"	2018-2023	4	8	8.4	"Apple TV+, Google Play Movies"
+38	Bates Motel	"A contemporary prequel to Psycho, giving a portrayal of how Norman Bates' psyche unravels."	"Horror, Mystery"	"Dark, Psychological"	2013-2017	5	10	8.2	"Apple TV+, Disney+ Hotstar"
+39	Batman: Animated Series	The Dark Knight battles crime in Gotham City with noir aesthetics.	"Animation, Action, Crime"	"Dark, Heroic"	1992-1995	2	42	9	"Apple TV+, Disney+ Hotstar"
+40	Batman: Caped Crusader	"Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a state of fear."	"Animation, Action, Crime"	"Dark, Stylish"	2024-Present	1	10	7.4	Apple TV+
+41	Battlestar Galactica	"When an old enemy resurfaces and obliterates the colonies, a crew protects a civilian fleet."	"Sci-Fi, Action"	"Epic, Intense"	2004-2009	4	20	8.7	Netflix
+42	Beef	Two people let a road rage incident burrow into their minds and slowly consume their lives.	"Comedy, Drama"	"Intense, Dark-Humor"	2023-Present	2	10	8	YouTube Movies
+43	Ben 10	A 10-year-old boy discovers a watch that allows him to transform into alien heroes.	"Animation, Action"	"Fun, Heroic"	2005-2008	4	13	7.3	"Apple TV+, Google Play Movies"
+44	Ben 10: Alien Force	A 15-year-old Ben Tennyson must once again use the Omnitrix to save Earth.	"Animation, Action"	"Heroic, Fun"	2008-2010	3	13	7.3	"Amazon Prime Video, Disney+ Hotstar"
+45	Better Call Saul	The trials and tribulations of criminal lawyer Jimmy McGill before he became Saul Goodman.	"Crime, Drama"	"Slow-Burn, Dark-Humor"	2015-2022	6	10	9	Disney+ Hotstar
+46	Better Things	An actress raises her three daughters while managing her career and mother.	"Comedy, Drama"	"Realistic, Wholesome"	2016-2022	5	10	8.2	Disney+ Hotstar
+47	"Beverly Hills, 90210"	A group of friends navigate high school and college in the affluent Beverly Hills.	"Drama, Romance"	"Dramatic, Stylish"	1990-2000	10	29	6.5	"YouTube Movies, HBO Max"
+48	Big Little Lies	The perfect lives of three mothers in a beachfront town unravel into murder.	"Drama, Mystery"	"Stylish, Intense"	2017-2019	2	7	8.5	"Google Play Movies, YouTube Movies"
+49	Billions	A US Attorney goes after a hedge fund king in a high-stakes game of power.	Drama	"Intense, Fast-Paced"	2016-2023	7	12	8.4	"Amazon Prime Video, Google Play Movies"
+50	Bizarre Foods	Andrew Zimmern travels the world looking for the most unusual foods.	"Documentary, Food"	"Adventurous, Informative"	2006-2018	14	10	8.1	HBO Max
+51	Black Mirror	"An anthology series exploring a twisted, high-tech world."	"Sci-Fi, Thriller"	"Dark, Thought-Provoking"	2011-Present	6	6	8.7	HBO Max
+52	Blue Eye Samurai	A mixed-race master of the sword lives a life in disguise while seeking revenge in Edo-period Japan.	"Animation, Action"	"Violent, Epic"	2023-Present	1	8	8.7	"YouTube Movies, Apple TV+"
+53	Blue Planet II	A breathtaking exploration of the world's oceans and the creatures within them.	Documentary	"Visionary, Peaceful"	2017-2018	1	7	9.3	Apple TV+
+54	Bluey	"The adventures of a Blue Heeler puppy, Bluey, who lives with her mum, dad, and sister."	"Animation, Family"	"Wholesome, Feel-Good"	2018-Present	3	50	9.4	"Google Play Movies, YouTube Movies"
+55	BoJack Horseman	"BoJack Horseman, a washed-up star of the 1990s sitcom 'Horsin' Around', tries to find a return to celebrity relevance."	"Animation, Comedy"	"Dark-Humor, Melancholic"	2014-2020	6	12	8.8	"Disney+ Hotstar, Apple TV+"
+56	Boardwalk Empire	An Atlantic City politician plays both sides of the law during Prohibition.	"Crime, Drama"	"Elegant, Gritty"	2010-2014	5	12	8.6	HBO Max
+57	Bones	A forensic anthropologist and a cocky FBI agent team up to solve murders.	"Crime, Comedy"	"Witty, Wholesome"	2005-2017	12	22	7.8	HBO Max
+58	Borgen	Follows the rise of Birgitte Nyborg to become Denmark's first female Prime Minister.	Drama	"Intellectual, Dramatic"	2010-2022	4	10	8.5	"YouTube Movies, Apple TV+"
+59	Boston Legal	Alan Shore and Denny Crane lead a team of high-priced lawyers at a prestigious firm.	"Comedy, Drama"	"Witty, Satirical"	2004-2008	5	20	8.5	"HBO Max, YouTube Movies"
+60	Boy Meets World	"Cory Matthews navigates life, school, and love with his family and best friend."	"Comedy, Drama"	"Wholesome, Nostalgic"	1993-2000	7	22	8.1	Amazon Prime Video
+61	Breaking Bad	A high school chemistry teacher turns to manufacturing methamphetamine.	"Crime, Drama"	"Dark, Intense"	2008-2013	5	13	9.5	"YouTube Movies, Disney+ Hotstar"
+62	Broad City	Two best friends navigate their daily lives and schemes in New York City.	Comedy	"Funny, Wacky"	2014-2019	5	10	8.1	"HBO Max, Amazon Prime Video"
+63	Broadchurch	The investigation of a young boy's murder in a small coastal town.	"Crime, Drama"	"Intense, Emotional"	2013-2017	3	8	8.4	"Amazon Prime Video, Apple TV+"
+64	Brooklyn Nine-Nine	"Detective Jake Peralta and his diverse, lovable colleagues police the NYPD's 99th Precinct."	"Comedy, Crime"	"Feel-Good, Light-hearted"	2013-2021	8	18	8.4	Google Play Movies
+65	Buffy the Vampire Slayer	"A young woman is destined to slay vampires, demons and other infernal creatures."	"Action, Drama, Fantasy"	"Epic, Dark-Humor"	1997-2003	7	22	8.3	"YouTube Movies, Netflix"
+66	CSI: Crime Scene Investigation	An elite team of police forensic evidence investigation experts work their cases in Las Vegas.	"Crime, Drama, Mystery"	"Realistic, Intellectual"	2000-2015	15	22	7.7	Amazon Prime Video
+67	CSI: Miami	A team of forensic scientists investigate crimes in the tropical L.A. of Florida.	"Crime, Drama"	"Stylish, Intense"	2002-2012	10	24	6.4	Amazon Prime Video
+68	CSI: NY	A third team of police forensic evidence investigation experts work their cases in New York City.	"Crime, Drama"	"Intense, Realistic"	2004-2013	9	22	7.1	Google Play Movies
+69	Caitaitain	A high-stakes thriller centered on an elite intelligence unit.	"Crime, Thriller"	"Intense, Clever"	2015	1	8	7.2	HBO Max
+70	Call the Midwife	Chronicles the lives of a group of midwives in London's East End in the 1950s.	Drama	"Wholesome, Emotional"	2012-Present	13	8	8.6	"Disney+ Hotstar, Apple TV+"
+71	Castlevania	A vampire hunter fights to save a city from an army of otherworldly beasts.	"Animation, Fantasy"	"Violent, Epic"	2017-2021	4	8	8.3	"Apple TV+, YouTube Movies"
+72	Catfish: The TV Show	A journey into the complex world of people who are using fake identities online.	Reality-TV	"Dramatic, Realistic"	2012-Present	9	20	7.1	"Netflix, Amazon Prime Video"
+73	Charmed	Three sisters discover they are powerful witches and must protect the world from evil.	"Drama, Fantasy"	"Mysterious, Heroic"	1998-2006	8	22	7.2	"Google Play Movies, Netflix"
+74	Cheers	The regulars of a Boston bar share their experiences and lives with each other.	Comedy	"Funny, Wholesome"	1982-1993	11	25	8	"YouTube Movies, HBO Max"
+75	Chef's Table	Go inside the lives and kitchens of six of the world's most renowned chefs.	"Documentary, Food"	"Elegant, Inspirational"	2015-2019	6	6	8.5	"HBO Max, Apple TV+"
+76	Chernobyl	"In 1986, an explosion at the Chernobyl nuclear power plant becomes a man-made catastrophe."	"Historical, Drama"	"Intense, Thought-Provoking"	2019	1	5	9.3	Google Play Movies
+77	Chewing Gum	A young woman tries to lose her virginity while living in an estate.	Comedy	"Funny, Wacky"	2015-2017	2	6	7.7	"Amazon Prime Video, Google Play Movies"
+78	Chicago Hope	The lives and cases of the medical staff at a high-tech hospital in Chicago.	Drama	"Realistic, Intense"	1994-2000	6	22	6.8	Disney+ Hotstar
+79	Clipped	"The story of LA Clippers owner Donald Sterling's downfall, following the release of a tape of his racist comments."	"Biography, Drama, Sport"	"Intense, Realistic"	2024	1	6	7.4	"Disney+ Hotstar, Amazon Prime Video"
+80	Coach	A university football coach balances his work with his daughter and new wife.	"Comedy, Sport"	"Funny, Light-hearted"	1989-1997	9	22	7	"Amazon Prime Video, Google Play Movies"
+81	Cobra Kai	"Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again."	"Action, Comedy"	"Feel-Good, Nostalgic"	2018-2025	6	10	8.5	Apple TV+
+82	Codename: Kids Next Door	Five 10-year-olds operate from a high-tech treehouse against adult tyranny.	"Animation, Action"	"Funny, Wacky"	2002-2008	6	13	7.2	"Disney+ Hotstar, Apple TV+"
+83	Community	A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body.	Comedy	"Experimental, Clever"	2009-2015	6	13	8.5	Google Play Movies
+84	Cosmos: A Spacetime Odyssey	An exploration of our discovery of the laws of nature and the universe.	Documentary	"Visionary, Educational"	2014	1	13	9.2	"YouTube Movies, Apple TV+"
+85	Courage the Cowardly Dog	The adventures of an anthropomorphic dog who lives with an elderly couple.	"Animation, Horror"	"Wacky, Dark"	1999-2002	4	13	8.3	Amazon Prime Video
+86	Cowboy Bebop	Bounty hunters in deep space face their past while searching for targets.	"Animation, Action"	"Cool, Melancholic"	1998-1999	1	26	8.9	Google Play Movies
+87	Criminal Minds	A group of elite FBI profilers analyze the country's most twisted criminal minds.	"Crime, Drama"	"Dark, Intense"	2005-Present	17	22	8.1	"HBO Max, Google Play Movies"
+88	Curb Your Enthusiasm	The life and times of Larry David and the predicaments he gets into with his friends.	Comedy	"Dark-Humor, Awkward"	2000-2024	12	10	8.8	"Apple TV+, Google Play Movies"
+89	Cyberpunk: Edgerunners	A street kid tries to survive in a technology-obsessed city of the future.	"Animation, Sci-Fi"	"Vibrant, Intense"	2022	1	10	8.3	HBO Max
+90	Daily Show	A satirical news program that takes on the day's top headlines.	"Comedy, Talk-Show"	"Satirical, Intellectual"	1996-Present	29	160	8.3	"Disney+ Hotstar, Amazon Prime Video"
+91	Dance Moms	Follows the lives of several young dancers and their mothers at an academy.	Reality-TV	"Dramatic, Intense"	2011-2019	8	25	4.6	"YouTube Movies, Google Play Movies"
+92	Dancing with the Stars	Celebrities are paired with professional ballroom dancers to compete.	Reality-TV	"Fun, Vibrant"	2005-Present	32	10	4.6	Google Play Movies
+93	Danny Phantom	A 14-year-old boy gains ghost powers and must protect his town from evil spirits.	"Animation, Action"	"Heroic, Fun"	2004-2007	3	15	7.1	Apple TV+
+94	Daredevil	"A blind lawyer by day, vigilante by night, fights crime in Hell's Kitchen."	"Action, Crime"	"Dark, Intense"	2015-2018	3	13	8.6	Amazon Prime Video
+95	Daredevil: Born Again	Matt Murdock returns as the Man Without Fear to battle Kingpin in New York.	"Action, Crime"	"Dark, Intense"	2025-Present	1	9	8.8	"HBO Max, Apple TV+"
+96	Daria	A smart and cynical girl goes through teenage life as an outsider in a world of idiots.	"Animation, Comedy"	"Satirical, Relatable"	1997-2002	5	13	8.1	"Google Play Movies, Apple TV+"
+97	Dark	"A family saga with a supernatural twist, set in a German town."	"Sci-Fi, Mystery"	"Dark, Complex"	2017-2020	3	8	8.7	"YouTube Movies, Google Play Movies"
+98	Dark Matter	"A man is kidnapped, knocked unconscious, and when he awakens, he finds himself in a world he doesn't recognize."	"Drama, Sci-Fi, Thriller"	"Intense, Visionary"	2024-Present	1	9	7.7	"Google Play Movies, HBO Max"
+99	Dave	A neurotic man in his late 20s believes he is destined to be a rapper.	"Comedy, Musical"	"Awkward, Satirical"	2020-2023	3	10	8.3	Netflix
+100	Dawson's Creek	Four friends in a small coastal town help each other through the challenges of adolescence.	"Drama, Romance"	"Emotional, Nostalgic"	1998-2003	6	22	6.7	"Disney+ Hotstar, Netflix"
+101	Days of Our Lives	Follows the lives of several families living in the fictional city of Salem.	Drama	"Dramatic, Intense"	1965-Present	59	250	5.1	Amazon Prime Video
+102	Deadliest Catch	Follows the lives of crab fishermen in the Bering Sea during the season.	Documentary	"Intense, Adventurous"	2005-Present	20	16	7.8	"Disney+ Hotstar, Netflix"
+103	Deadwood	"A show set in the late 1800s, revolving around the characters of Deadwood, South Dakota."	"Western, Drama"	"Gritty, Dark"	2004-2006	3	12	8.6	HBO Max
+104	Death Note	An intelligent student finds a notebook that can kill anyone whose name is written.	"Animation, Mystery"	"Intense, Intellectual"	2006-2007	1	37	8.9	Netflix
+105	Delhi Crime	Follows the Delhi Police investigation into the 2012 gang rape case.	"Crime, Drama"	"Realistic, Intense"	2019-2022	2	7	8.5	"YouTube Movies, Netflix"
+106	Derry Girls	Follows a group of friends navigating their teens in Derry in the 1990s.	Comedy	"Wholesome, Light-hearted"	2018-2022	3	6	8.7	"Google Play Movies, Netflix"
+107	Desperate Housewives	Secrets and truths unfold through the lives of female friends in one suburban neighborhood.	"Comedy, Drama"	"Mysterious, Dramatic"	2004-2012	8	23	7.6	Disney+ Hotstar
+108	Deutschland 83	A young man is sent from East Germany to West Germany to spy for the Stasi.	"Crime, Drama"	"Stylish, Intense"	2015	1	8	8.1	"Google Play Movies, YouTube Movies"
+109	Dexter	"By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer."	"Crime, Thriller"	"Dark, Intense"	2006-2013	8	12	8.6	"Amazon Prime Video, HBO Max"
+110	Dirty Jobs	Mike Rowe travels around the country discovering unusual occupations.	Documentary	"Fun, Realistic"	2003-2012	9	11	8.1	"Google Play Movies, YouTube Movies"
+111	Disclaimer	A famous documentary journalist discovers she is a main character in a novel that reveals a secret she has tried to keep hidden.	"Drama, Mystery, Thriller"	"Intense, Intellectual"	2024	1	7	7.1	"Disney+ Hotstar, Amazon Prime Video"
+112	Doctor Who	An alien travels through time and space in a blue police box.	"Sci-Fi, Adventure"	"Wacky, Visionary"	2005-Present	14	13	8.6	Amazon Prime Video
+113	Documentary Now!	Parodies of famous documentaries featuring various stars.	Comedy	"Clever, Satirical"	2015-2022	4	6	8.1	Netflix
+114	Dog the Bounty Hunter	Duane 'Dog' Chapman and his family hunt down fugitives in Hawaii.	Reality-TV	"Intense, Realistic"	2004-2012	8	20	4.9	"Disney+ Hotstar, YouTube Movies"
+115	"Doogie Howser, M.D."	A child prodigy who became a doctor at 14 tries to balance his medical career with being a teenager.	"Comedy, Drama"	"Wholesome, Intellectual"	1989-1993	4	24	6.3	Netflix
+116	Dopesick	Focuses on the epicenter of America's struggle with opioid addiction.	Drama	"Powerful, Intense"	2021	1	8	8.6	Google Play Movies
+117	Downton Abbey	A chronicle of the lives of the British aristocratic Crawley family and their servants in the early 20th Century.	"Drama, Historical"	"Elegant, Emotional"	2010-2015	6	9	8.7	"Apple TV+, Amazon Prime Video"
+118	Dune: Prophecy	"Set 10,000 years before the birth of Paul Atreides, it follows two Harkonnen sisters as they combat forces that threaten the future of humankind."	"Action, Adventure, Drama"	"Epic, Visionary"	2024-Present	1	6	7.1	"YouTube Movies, Amazon Prime Video"
+119	ER	"The lives, loves and losses of the doctors and nurses of Chicago's County General Hospital."	"Drama, Romance"	"Intense, Realistic"	1994-2009	15	22	7.9	"Netflix, Disney+ Hotstar"
+120	"Ed, Edd n Eddy"	Three adolescent boys with similar names have various misadventures in their cul-de-sac.	"Animation, Comedy"	"Funny, Wacky"	1999-2009	6	13	7.5	"Apple TV+, YouTube Movies"
+121	Elite	"When three working-class teens enroll in an exclusive private school in Spain, the clash leads to murder."	"Crime, Drama"	"Intense, Suspenseful"	2018-Present	8	8	7.2	Disney+ Hotstar
+122	Enterprise	"A prequel to the original Star Trek series, following the crew of the first Warp 5 starship."	"Sci-Fi, Adventure"	"Visionary, Epic"	2001-2005	4	25	7.5	"Apple TV+, Netflix"
+123	Entourage	A young movie star navigates the terrain of Los Angeles with a close circle of friends.	"Comedy, Drama"	"Stylish, Fun"	2004-2011	8	12	8.5	"HBO Max, Netflix"
+124	Eric	"A desperate father, alongside a tenacious cop, battles his own demons on the streets of 1980s New York to find his missing son."	"Crime, Drama, Thriller"	"Dark, Intense"	2024	1	6	7	"Apple TV+, Netflix"
+125	Euphoria	"A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence."	Drama	"Intense, Melancholic"	2019-Present	2	8	8.3	"Amazon Prime Video, Netflix"
+126	Evening Shade	A former professional football player moves back to his hometown in Arkansas to coach the high school team.	Comedy	"Funny, Wholesome"	1990-1994	4	25	6.7	Disney+ Hotstar
+127	Everybody Hates Chris	A young African-American teen attempts to survive with his dysfunctional family.	Comedy	"Funny, Wholesome"	2005-2009	4	22	7.5	YouTube Movies
+128	Extras	The life of an actor who is desperate for his big break.	"Comedy, Drama"	"Awkward, Satirical"	2005-2007	2	6	8.3	"Google Play Movies, Apple TV+"
+129	Fallout	"Based on one of the greatest video game series of all time, the story of haves and have-nots in a world in which there's almost nothing left to have."	"Sci-Fi, Action"	"Dark-Humor, Epic"	2024-Present	2	8	8.4	"Google Play Movies, HBO Max"
+130	Family Guy	"In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life."	"Animation, Comedy"	"Wacky, Satirical"	1999-Present	22	20	8.2	"Apple TV+, Google Play Movies"
+131	Fargo	"Various chronicles of deception, intrigue and murder in and around frozen Minnesota."	"Crime, Comedy"	"Dark-Humor, Gritty"	2014-Present	5	10	8.9	Apple TV+
+132	Fauda	A unit of undercover agents in the Israeli Defense Forces hunt a terrorist leader.	"Action, Crime"	"Intense, Gritty"	2015-Present	4	12	8.3	"Amazon Prime Video, Apple TV+"
+133	Fear the Walking Dead	A blended family tries to survive the onset of the zombie apocalypse.	"Horror, Drama"	"Dark, Gritty"	2015-2023	8	16	6.8	"YouTube Movies, Apple TV+"
+134	Firefly	A renegade crew aboard a small spacecraft tries to survive in deep space.	"Sci-Fi, Adventure"	"Fun, Epic"	2002-2003	1	14	8.9	Google Play Movies
+135	Flavor of Love	Flavor Flav looks for love among twenty different women.	Reality-TV	"Wacky, Dramatic"	2006-2008	3	11	4.4	Amazon Prime Video
+136	Flavor of Love Girls: Charm School	Former contestants from Flavor of Love compete to become ladies.	Reality-TV	"Dramatic, Wacky"	2007	1	11	4.9	Apple TV+
+137	Fleabag	"A dry-witted woman, known only as Fleabag, has no filter as she navigates life and love in London."	"Comedy, Drama"	"Dark-Humor, Emotional"	2016-2019	2	6	8.7	Google Play Movies
+138	Foster's Home for Imaginary Friends	An 8-year-old boy visits his imaginary friend at a home for those who are outgrown.	"Animation, Comedy"	"Whimsical, Wholesome"	2004-2009	6	13	7.6	Netflix
+139	Frasier	Dr. Frasier Crane moves back to his hometown of Seattle and starts a radio talk show.	Comedy	"Funny, Intellectual"	1993-2004	11	24	8.2	"HBO Max, Google Play Movies"
+140	Freaks and Geeks	A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his first year.	"Comedy, Drama"	"Wholesome, Realistic"	1999-2000	1	18	8.8	"Disney+ Hotstar, Netflix"
+141	Fresh Meat	Follows the lives of six students who are about to embark on the most exciting period of their lives.	"Comedy, Drama"	"Realistic, Funny"	2011-2016	4	8	7.9	Amazon Prime Video
+142	Friday Night Lights	"The inhabitants of Dillon, Texas, find high school football is the pride of the town."	"Drama, Sport"	"Emotional, Inspirational"	2006-2011	5	13	8.7	"Amazon Prime Video, Apple TV+"
+143	Friends	Six friends navigate life and love in New York City.	"Comedy, Romance"	"Feel-Good, Wholesome"	1994-2004	10	24	8.9	HBO Max
+144	Fullmetal Alchemist: Brotherhood	Two brothers use alchemy in a quest to restore their physical forms.	"Animation, Action"	"Epic, Emotional"	2009-2010	1	64	9.1	"Google Play Movies, Netflix"
+145	Futurama	"Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999."	"Animation, Sci-Fi"	"Light-hearted, Satirical"	1999-Present	8	13	8.5	"Netflix, YouTube Movies"
+146	Game of Thrones	Nine noble families fight for control over the lands of Westeros.	"Fantasy, Drama"	"Epic, Dark"	2011-2019	8	10	9.2	"HBO Max, Google Play Movies"
+147	Gen V	The young supes at Godolkin University uncover deeper conspiracies within Vought.	"Action, Drama"	"Violent, Intense"	2023-Present	2	8	7.9	"Disney+ Hotstar, Netflix"
+148	General Hospital	The lives and dramas of the staff and patients at a hospital in Port Charles.	Drama	"Dramatic, Intense"	1963-Present	61	250	6.5	"YouTube Movies, Apple TV+"
+149	Ghost Hunters	A group of investigators travel to various locations to investigate paranormal reports.	Documentary	"Mysterious, Intense"	2004-Present	16	13	6.3	Apple TV+
+150	Ghost Whisperer	A newlywed with the ability to communicate with earthbound spirits helps them.	"Drama, Fantasy"	"Emotional, Mysterious"	2005-2010	5	21	6.4	YouTube Movies
+151	Gilmore Girls	A dramedy centering on the relationship between a thirtysomething single mother and her teen daughter.	"Comedy, Drama"	"Wholesome, Fast-Paced"	2000-2007	7	22	8.2	Google Play Movies
+152	Girls	The lives of four young women living and working in New York City.	"Comedy, Drama"	"Realistic, Dramatic"	2012-2017	6	10	7.4	Netflix
+153	Gomorrah	"Ciro Di Marzio, a member of the Savastano clan, rises to power in the Neapolitan criminal world."	"Crime, Drama"	"Gritty, Intense"	2014-2021	5	12	8.6	"Amazon Prime Video, Apple TV+"
+154	Good Omens	A demon and a fussy angel team up to stop the coming of the Antichrist.	"Fantasy, Comedy"	"Clever, Wholesome"	2019-2023	2	6	8	"Disney+ Hotstar, YouTube Movies"
+155	Gossip Girl	Privileged teens living on the Upper East Side of New York can't hide from an anonymous blogger.	"Drama, Romance"	"Stylish, Dramatic"	2007-2012	6	18	7.5	Amazon Prime Video
+156	Gotham	The story behind Commissioner James Gordon's rise to prominence in Gotham City.	"Action, Crime"	"Dark, Stylish"	2014-2019	5	22	7.8	HBO Max
+157	Grace Under Fire	A single mother and recovering alcoholic tries to raise her three children.	Comedy	"Funny, Realistic"	1993-1998	5	22	6.1	"Disney+ Hotstar, Netflix"
+158	Gravity Falls	Twin siblings spend the summer with their great-uncle in a mysterious town.	"Animation, Adventure"	"Whimsical, Mysterious"	2012-2016	2	20	8.9	"Apple TV+, HBO Max"
+159	Grey's Anatomy	A drama centered on the personal and professional lives of five surgical interns and their supervisors.	"Drama, Romance"	"Emotional, Dramatic"	2005-Present	20	22	7.6	Amazon Prime Video
+160	Guiding Light	Follows the lives of several families in the fictional town of Springfield.	Drama	"Dramatic, Wholesome"	1952-2009	57	250	6.6	"Amazon Prime Video, YouTube Movies"
+161	Hacks	Explores a dark mentorship between a Las Vegas comedian and an outcast writer.	"Comedy, Drama"	"Clever, Dark-Humor"	2021-Present	3	8	8.2	"HBO Max, Netflix"
+162	Halo	A cybernetically enhanced soldier defends humanity against an alien threat.	"Sci-Fi, Action"	"Epic, Visual"	2022-2024	2	8	7.2	YouTube Movies
+163	Handmaid's Tale	"In a dystopian future, a woman is forced into sexual servitude under a dictatorship."	"Drama, Sci-Fi"	"Dark, Intense"	2017-2025	6	10	8.4	Google Play Movies
+164	Hannibal	"Explores the early relationship between a renowned psychiatrist and his patient, a young FBI criminal profiler."	"Crime, Thriller"	"Dark, Psychological"	2013-2015	3	13	8.5	"YouTube Movies, Apple TV+"
+165	Happy Valley	A police sergeant in a small town hunts the man who ruined her life.	"Crime, Drama"	"Gritty, Intense"	2014-2023	3	6	8.5	"Google Play Movies, YouTube Movies"
+166	Heartstopper	Teens Charlie and Nick discover their unlikely friendship might be something more.	"Drama, Romance"	"Wholesome, Feel-Good"	2022-Present	3	8	8.7	YouTube Movies
+167	Hell's Kitchen	Gordon Ramsay puts aspiring chefs through a series of rigorous tests.	"Reality-TV, Food"	"Intense, Competitive"	2005-Present	22	15	7.1	"Disney+ Hotstar, Apple TV+"
+168	Hercules: The Legendary Journeys	The mythical hero Hercules travels the world fighting monsters and helping people.	"Action, Adventure"	"Heroic, Fun"	1995-1999	6	13	6.7	"Netflix, HBO Max"
+169	Hoarders	Exploring the lives of people who suffer from compulsive hoarding.	Reality-TV	"Emotional, Serious"	2009-Present	15	7	6.7	Netflix
+170	Home Improvement	"The daily life of a TV show host, his wife, and their three sons in Detroit."	Comedy	"Funny, Wholesome"	1991-1999	8	25	7	"Apple TV+, Disney+ Hotstar"
+171	Homeland	A CIA officer becomes convinced that a POW has been turned by al-Qaeda.	"Crime, Mystery"	"Intense, Mysterious"	2011-2020	8	12	8.3	Netflix
+172	Horizon Zero Dawn	Aloy uncovers her origins and the secrets of the mechanical creatures.	"Action, Sci-Fi"	"Visionary, Epic"	2025	1	10	8.2	"HBO Max, Amazon Prime Video"
+173	House	An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases.	"Drama, Mystery"	"Intellectual, Dark-Humor"	2004-2012	8	22	8.7	"YouTube Movies, Disney+ Hotstar"
+174	House M.D.	An antisocial maverick doctor who specializes in diagnostic medicine solves puzzling cases.	"Drama, Mystery"	"Intellectual, Dark-Humor"	2004-2012	8	22	8.7	"Netflix, Apple TV+"
+175	House of Cards	A Congressman works with his equally conniving wife to exact revenge on betrayers.	Drama	"Intense, Dark"	2013-2018	6	13	8.7	"Disney+ Hotstar, HBO Max"
+176	House of the Dragon	An internal succession war within House Targaryen at the height of its power.	"Fantasy, Drama"	"Epic, Dark"	2022-Present	2	10	8.4	Google Play Movies
+177	How I Met Your Mother	A father recounts to his children the journey he and his four best friends took leading up to him meeting their mother.	"Comedy, Romance"	"Fun, Nostalgic"	2005-2014	9	22	8.3	"Disney+ Hotstar, Netflix"
+178	How It's Made	Explores how common items are manufactured in a factory setting.	Documentary	"Informative, Relaxing"	2001-Present	32	13	7.8	Netflix
+179	How To with John Wilson	A documentary filmmaker gives advice on how to perform various tasks.	"Documentary, Comedy"	"Wacky, Reflective"	2020-2023	3	6	8.7	"YouTube Movies, HBO Max"
+180	Hunter x Hunter	Gon Freecss seeks to become a Hunter and find his long-lost father.	"Animation, Adventure"	"Epic, Heroic"	2011-2014	1	148	9	"YouTube Movies, Disney+ Hotstar"
+181	I Know This Much Is True	Follows the parallel lives of identical twin brothers in a story of betrayal.	Drama	"Emotional, Melancholic"	2020	1	6	8.1	"YouTube Movies, Netflix"
+182	I May Destroy You	A writer seeks to rebuild her life after being sexually assaulted.	Drama	"Experimental, Intense"	2020	1	12	8.1	Disney+ Hotstar
+183	I Think You Should Leave	Sketch comedy series with Tim Robinson.	Comedy	"Funny, Wacky"	2019-Present	3	6	8	HBO Max
+184	Ice Road Truckers	Follows the lives of truck drivers who navigate frozen lakes in Canada.	Documentary	"Intense, Adventurous"	2007-2017	11	10	6.3	Apple TV+
+185	Insecure	The awkward experiences and tribulations of a modern-day African-American woman.	"Comedy, Drama"	"Realistic, Light-hearted"	2016-2021	5	8	8.1	"HBO Max, YouTube Movies"
+186	Inside No. 9	"Anthology of darkly comic stories, each set in a different 'No. 9'."	"Comedy, Drama"	"Dark-Humor, Clever"	2014-2024	9	6	8.5	Apple TV+
+187	Intervention	Exploring the lives of people who suffer from various forms of addiction.	Reality-TV	"Emotional, Intense"	2005-Present	25	10	7.8	Netflix
+188	Invader ZIM	An alien from the planet Irk is sent to Earth to prepare for an invasion.	"Animation, Sci-Fi"	"Dark-Humor, Wacky"	2001-2006	2	13	8.4	"Apple TV+, YouTube Movies"
+189	Inventing Anna	"A journalist investigates the case of Anna Delvey, a fake heiress."	Drama	"Dramatic, Stylish"	2022	1	9	6.8	Amazon Prime Video
+190	Invincible	An adult animated series based on the Skybound/Image comic about a teenager whose father is the most powerful superhero on the planet.	"Animation, Action"	"Violent, Epic"	2021-Present	3	8	8.7	Apple TV+
+191	Ironheart	"A young genius, Riri Williams, creates the most advanced suit of armor since Iron Man."	"Action, Adventure"	"Epic, Inspirational"	2025-Present	1	6	7.4	"Amazon Prime Video, HBO Max"
+192	It's Always Sunny	Five narcissistic friends run a neighborhood Irish pub in Philadelphia.	Comedy	"Dark-Humor, Experimental"	2005-Present	16	10	8.8	Google Play Movies
+193	It's Always Sunny in Philadelphia	Five friends with big egos and small brains own a neighborhood Irish pub in Philadelphia.	Comedy	"Dark-Humor, Experimental"	2005-Present	16	10	8.8	Amazon Prime Video
+194	JAG	Follows the cases of the Judge Advocate General's office in the U.S. Navy.	"Action, Crime"	"Realistic, Intense"	1995-2005	10	22	6.7	"YouTube Movies, Disney+ Hotstar"
+195	Jackass	A group of people perform various dangerous and crude stunts.	"Reality-TV, Comedy"	"Violent, Wacky"	2000-2002	3	8	7.3	"HBO Max, Apple TV+"
+196	Jeopardy!	A long-running quiz show where contestants are given clues in the form of answers.	Game-Show	"Intellectual, Educational"	1964-Present	40	230	8.2	"Google Play Movies, Disney+ Hotstar"
+197	Jersey Shore	A group of people spend their summer together at the Jersey Shore.	Reality-TV	"Wacky, Vibrant"	2009-2012	6	12	3.9	Google Play Movies
+198	Jimmy Kimmel Live!	Late-night talk show hosted by Jimmy Kimmel featuring celebrity guests and comedy bits.	"Comedy, Talk-Show"	"Funny, Topical"	2003-Present	22	170	6.6	YouTube Movies
+199	Jury Duty	Follows an American jury trial through the eyes of one juror who doesn't know it's fake.	Comedy	"Funny, Wholesome"	2023	1	8	8.2	"Apple TV+, Disney+ Hotstar"
+200	Justice League	Seven of the world's most powerful superheroes work together to protect Earth.	"Animation, Action"	"Epic, Heroic"	2001-2004	2	26	8.6	Disney+ Hotstar
+201	Justice League Unlimited	A continuation of the original series with a greatly expanded roster of heroes.	"Animation, Action"	"Epic, Heroic"	2004-2006	3	13	8.7	HBO Max
+202	Justified	Old-school U.S. Marshal Raylan Givens is reassigned from Miami to his childhood home in Kentucky.	"Crime, Action"	"Gritty, Intense"	2010-2015	6	13	8.6	Google Play Movies
+203	Kaos	"A contemporary reimagining of Greek mythology, exploring themes of gender politics, power, and life in the underworld."	"Comedy, Drama, Fantasy"	"Experimental, Satirical"	2024-Present	1	8	7.5	Disney+ Hotstar
+204	Keeping Up with the Kardashians	A look inside the private lives of the Kardashian-Jenner family.	Reality-TV	"Dramatic, Stylish"	2007-2021	20	15	2.9	"YouTube Movies, Amazon Prime Video"
+205	Killing Eve	A security operative and a talented killer become obsessed with each other.	"Crime, Thriller"	"Dark-Humor, Intense"	2018-2022	4	8	8.2	"Disney+ Hotstar, Netflix"
+206	Kim Possible	A teenage girl balances her life as a student with fighting global crime.	"Animation, Action"	"Heroic, Fun"	2002-2007	4	21	7.2	"Disney+ Hotstar, Apple TV+"
+207	King of the Hill	"A straight-laced propane salesman in Arlen, Texas, deals with his family and friends."	"Animation, Comedy"	"Satirical, Realistic"	1997-2010	13	20	7.5	"Netflix, YouTube Movies"
+208	Kingdom	"In the Joseon period, a crown prince investigates a mysterious plague."	"Action, Horror"	"Epic, Intense"	2019-2021	2	6	8.3	Netflix
+209	Kitchen Nightmares (UK)	Gordon Ramsay visits struggling restaurants to help them find success.	"Reality-TV, Food"	"Intense, Fun"	2004-2009	5	4	8.2	Amazon Prime Video
+210	Knight Rider	A man and his high-tech talking car fight crime and injustice.	"Action, Sci-Fi"	"Heroic, Fun"	1982-1986	4	21	6.9	Amazon Prime Video
+211	Laguna Beach	Follows the lives of eight teenagers living in a wealthy California community.	Reality-TV	"Dramatic, Stylish"	2004-2006	3	11	4.8	Disney+ Hotstar
+212	Last Week Tonight	"John Oliver takes a satirical look at news, politics and current events."	"Comedy, Talk-Show"	"Intellectual, Witty"	2014-Present	11	30	8.9	"YouTube Movies, Disney+ Hotstar"
+213	Late Night with Conan O'Brien	Late-night talk show featuring interviews and comedy sketches.	"Comedy, Talk-Show"	"Funny, Wacky"	1993-2009	16	160	8.3	Google Play Movies
+214	Late Night with Seth Meyers	"Seth Meyers provides a sharp, witty take on current events and headlines."	"Comedy, Talk-Show"	"Witty, Intelligent"	2014-Present	11	160	6.1	Google Play Movies
+215	Law & Order	A procedural drama following the investigation and prosecution of various crimes.	"Crime, Drama, Mystery"	"Realistic, Intense"	1990-Present	23	22	7.8	"Google Play Movies, Netflix"
+216	Law & Order: Criminal Intent	Focuses on the perspective of the criminals and the Major Case Squad detectives.	"Crime, Drama"	"Intellectual, Intense"	2001-2011	10	22	7.5	HBO Max
+217	Law & Order: SVU	"Follows the Special Victims Unit, a specially trained squad of detectives in the NYPD."	"Crime, Drama"	"Realistic, Intense"	1999-Present	25	22	8.1	YouTube Movies
+218	Lego Masters	Teams of Lego builders compete to create the most impressive structures.	Reality-TV	"Fun, Creative"	2020-Present	4	10	7.3	HBO Max
+219	Lessons in Chemistry	A female scientist in the 1950s becomes a TV cooking show host.	"Drama, History"	"Inspirational, Realistic"	2023	1	8	8.2	Disney+ Hotstar
+220	Lincoln Lawyer	An iconoclastic idealist runs his law practice out of the back of his Lincoln Town Car.	"Crime, Drama, Mystery"	"Clever, Light-hearted"	2022-Present	3	10	7.7	"Disney+ Hotstar, Google Play Movies"
+221	Line of Duty	A police unit investigates internal corruption within the force.	"Crime, Thriller"	"Intense, Suspenseful"	2012-2021	6	6	8.7	"Google Play Movies, Netflix"
+222	Lois & Clark	The adventures of Superman and reporter Lois Lane in Metropolis.	"Comedy, Romance"	"Light-hearted, Fun"	1993-1997	4	22	6.7	"Amazon Prime Video, YouTube Movies"
+223	Loki	The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of 'Avengers: Endgame'.	"Action, Sci-Fi"	"Epic, Clever"	2021-2023	2	6	8.2	Apple TV+
+224	London Spy	A young man discovers his lover was a spy and sets out to find the truth.	"Crime, Drama"	"Mysterious, Intense"	2015	1	5	7.5	Apple TV+
+225	Lost	The survivors of a plane crash are forced to work together in order to survive on a deserted island.	"Adventure, Mystery"	"Mysterious, Intense"	2004-2010	6	20	8.3	"Google Play Movies, HBO Max"
+226	Love Island	Singles live in a villa and try to find love while avoiding being dumped.	Reality-TV	"Dramatic, Fun"	2015-Present	11	40	5.5	Netflix
+227	Lupin	A gentleman thief inspired by Assane Diop seeks revenge for his father.	"Crime, Mystery"	"Clever, Stylish"	2021-Present	3	5	7.5	"YouTube Movies, Apple TV+"
+228	Luther	A brilliant but self-destructive detective captures dangerous criminals.	"Crime, Drama"	"Dark, Intense"	2010-2019	5	4	8.4	Disney+ Hotstar
+229	MacGyver	A secret agent uses his scientific knowledge and everyday items to solve problems.	"Action, Adventure"	"Heroic, Visionary"	1985-1992	7	20	7.6	"Netflix, HBO Max"
+230	Mad Men	A drama about one of New York's most prestigious ad agencies in the beginning of the 1960s.	Drama	"Slow-Burn, Elegant"	2007-2015	7	13	8.7	Netflix
+231	Making a Murderer	"A documentary about Steven Avery, who was exonerated for a crime he didn't commit."	"Documentary, Crime"	"Intense, Gritty"	2015-2018	2	10	8.6	"YouTube Movies, Disney+ Hotstar"
+232	Malcolm in the Middle	"A gifted young teen tries to survive life with his dimwitted, dysfunctional family."	Comedy	"Funny, Wacky"	2000-2006	7	22	8.2	Netflix
+233	Man vs. Wild	Bear Grylls travels to remote locations and shows how to survive in the wild.	Documentary	"Adventurous, Intense"	2006-2011	7	9	8.1	Google Play Movies
+234	Mare of Easttown	A detective in a small town investigates a murder while her life falls apart.	"Crime, Drama"	"Gritty, Realistic"	2021	1	7	8.4	"Amazon Prime Video, Disney+ Hotstar"
+235	Mass Effect	Commander Shepard leads a crew to save the galaxy from an ancient threat.	"Sci-Fi, Adventure"	"Epic, Thought-Provoking"	2025	1	10	8.4	"Apple TV+, Amazon Prime Video"
+236	Master of None	"The personal and professional life of Dev, a 30-year-old actor in New York."	"Comedy, Drama"	"Realistic, Intellectual"	2015-2021	3	10	8.2	YouTube Movies
+237	Masterchef	A search for the best home cooks in the country.	Reality-TV	"Competitive, Fun"	2010-Present	14	20	7.2	Apple TV+
+238	Masters of the Air	"During WWII, five miles above the ground and deep behind enemy lines, eleven men inside a bomber known as the 'Flying Fortress' fight for their lives."	"Action, Drama, History"	"Epic, Intense"	2024	1	9	7.8	Amazon Prime Video
+239	Matlock	A folksy but sharp criminal defense attorney in Atlanta solves difficult cases.	"Crime, Mystery"	"Clever, Light-hearted"	1986-1995	9	21	7	Google Play Movies
+240	Medium	A woman who works as a consultant for the district attorney's office can communicate with the dead.	"Crime, Drama, Mystery"	"Mysterious, Intense"	2005-2011	7	18	7.1	"HBO Max, Disney+ Hotstar"
+241	Midnight Mass	A young man's return to an isolated community coincides with strange miracles.	"Horror, Drama"	"Dark, Thought-Provoking"	2021	1	7	7.7	Apple TV+
+242	Mindhunter	Two FBI agents expand criminal science by delving into the psychology of murder.	"Crime, Thriller"	"Slow-Burn, Intellectual"	2017-2019	2	10	8.6	"Amazon Prime Video, HBO Max"
+243	Misfits	A group of young offenders gain superpowers after a mysterious storm.	"Comedy, Sci-Fi"	"Dark-Humor, Wacky"	2009-2013	5	8	8.2	"Google Play Movies, Apple TV+"
+244	Modern Family	Three different but related families face trials and tribulations.	"Comedy, Family"	"Funny, Wholesome"	2009-2020	11	22	8.5	"Amazon Prime Video, HBO Max"
+245	Monarch: Legacy of Monsters	Follows a family's journey to uncover secrets linking them to Monarch.	"Sci-Fi, Action"	"Epic, Suspenseful"	2023-Present	1	10	7	"YouTube Movies, Apple TV+"
+246	Money Heist	An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history.	"Crime, Thriller"	"Intense, Suspenseful"	2017-2021	5	8	8.2	Disney+ Hotstar
+247	Monk	"Adrian Monk is a brilliant San Francisco detective, whose obsessive-compulsive disorder often gets in the way."	"Comedy, Crime, Drama"	"Funny, Mysterious"	2002-2009	8	16	8	"Apple TV+, Google Play Movies"
+248	Monsters: The Lyle and Erik Menendez Story	"In 1989, the Menendez brothers killed their parents in Beverly Hills."	"Biography, Crime, Drama"	"Intense, Dark"	2024	1	9	7	YouTube Movies
+249	Morning Joe	A daily morning news and talk show featuring political analysis.	Talk-Show	"Topical, Intellectual"	2007-Present	17	250	4.3	"Amazon Prime Video, Disney+ Hotstar"
+250	Move to Heaven	A young man with Asperger's and his ex-con uncle work as trauma cleaners.	Drama	"Emotional, Thought-Provoking"	2021	1	10	8.5	"Google Play Movies, Disney+ Hotstar"
+251	Mr. Robot	A brilliant engineer and vigilante hacker becomes a key figure in global dominance.	"Crime, Drama"	"Dark, Intellectual"	2015-2019	4	13	8.5	YouTube Movies
+252	"Murder, She Wrote"	A mystery writer uses her keen intellect to solve murders in her small town and beyond.	"Crime, Mystery"	"Clever, Light-hearted"	1984-1996	12	22	7.1	"Google Play Movies, Netflix"
+253	Murphy Brown	A sharp-witted news anchor returns to work after a stint in rehab.	Comedy	"Fast-Paced, Witty"	1988-2018	11	22	7	"HBO Max, Netflix"
+254	My Name Is Earl	A newly rich petty thief decides to make up for all his past mistakes.	Comedy	"Funny, Feel-Good"	2005-2009	4	24	7.7	YouTube Movies
+255	MythBusters	Using science and engineering to test various myths and urban legends.	Documentary	"Educational, Fun"	2003-2018	20	15	8.3	Google Play Movies
+256	NCIS	Naval Criminal Investigative Service solving crimes.	"Action, Crime"	"Realistic, Fun"	2003-Present	22	22	7.8	"Google Play Movies, Disney+ Hotstar"
+257	NYPD Blue	Follows the lives of the detectives and staff of a police precinct in New York City.	"Crime, Drama"	"Gritty, Realistic"	1993-2005	12	22	7.7	HBO Max
+258	Narcos	A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.	"Crime, Drama"	"Intense, Gritty"	2015-2017	3	10	8.8	Apple TV+
+259	Nashville	Follows the lives and tragedies of rising and fading country music stars.	"Drama, Music"	"Emotional, Dramatic"	2012-2018	6	21	7.7	YouTube Movies
+260	Nathan for You	Nathan Fielder helps small businesses with absurd marketing schemes.	Comedy	"Awkward, Satirical"	2013-2017	4	8	8.9	Amazon Prime Video
+261	Neon Genesis Evangelion	A teenage boy is recruited to pilot a giant mecha to battle alien beings.	"Animation, Sci-Fi"	"Philosophical, Intense"	1995-1996	1	26	8.5	Google Play Movies
+262	New Girl	"After a bad break-up, an eccentric teacher moves into a loft with three single guys."	"Comedy, Romance"	"Funny, Heartwarming"	2011-2018	7	22	7.8	Amazon Prime Video
+263	NewsRadio	The staff of a New York news radio station navigate work and personal lives.	Comedy	"Witty, Fast-Paced"	1995-1999	5	19	7.9	"Apple TV+, Disney+ Hotstar"
+264	Nobody Wants This	An agnostic sex podcaster and a newly single rabbi fall in love.	"Comedy, Romance"	"Light-hearted, Wholesome"	2024-Present	1	10	8.1	Disney+ Hotstar
+265	Normal People	"The on-again, off-again relationship between two teenagers in Ireland."	"Drama, Romance"	"Realistic, Emotional"	2020	1	12	8.4	"Disney+ Hotstar, HBO Max"
+266	Northern Exposure	"A young New York doctor is sent to a small, eccentric town in Alaska to pay off his medical school debt."	"Comedy, Drama"	"Whimsical, Intellectual"	1990-1995	6	18	8.3	"YouTube Movies, Amazon Prime Video"
+267	Occupied	"In a near future, Russia initiates a silk-glove invasion of Norway."	"Crime, Thriller"	"Intense, Visionary"	2015-2019	3	10	7.6	"Netflix, HBO Max"
+268	Once Upon a Time	A young woman with a troubled past is drawn to a small town in Maine where fairy tales are real.	"Fantasy, Adventure"	"Whimsical, Epic"	2011-2018	7	22	7.7	"Netflix, YouTube Movies"
+269	One Day	Emma and Dexter meet on graduation night and their lives remain intertwined.	"Romance, Drama"	"Emotional, Melancholic"	2024	1	14	8.1	"YouTube Movies, Amazon Prime Video"
+270	One Day at a Time	Follows three generations of a Cuban-American family living in the same house.	"Comedy, Drama"	"Wholesome, Heartwarming"	2017-2020	4	13	8.2	"Google Play Movies, Amazon Prime Video"
+271	One Life to Live	The trials and tribulations of several families in the fictional Llanview.	Drama	"Dramatic, Intense"	1968-2012	44	250	6.8	"HBO Max, Apple TV+"
+272	One Piece	"In a seafaring world, a young pirate captain sets out with his crew to attain the title of Pirate King."	"Action, Adventure"	"Epic, Feel-Good"	2023-Present	1	8	8.3	YouTube Movies
+273	One Tree Hill	Half-brothers Nathan and Lucas Scott compete for positions on their school's basketball team and for the hearts of their classmates.	"Drama, Romance"	"Emotional, Nostalgic"	2003-2012	9	22	7.8	Netflix
+274	Only Murders in the Building	Three strangers obsessed with true crime find themselves in one.	"Comedy, Crime"	"Fun, Witty"	2021-Present	4	10	8.1	"Disney+ Hotstar, HBO Max"
+275	Orange Is the New Black	A normally law-abiding woman is sentenced to a year in prison for a decade-old crime.	"Comedy, Crime"	"Realistic, Dramatic"	2013-2019	7	13	8	"YouTube Movies, Apple TV+"
+276	Orphan Black	A streetwise hustler is pulled into a conspiracy after witnessing the suicide of a girl who looks like her.	"Sci-Fi, Thriller"	"Experimental, Intense"	2013-2017	5	10	8.3	"Netflix, Disney+ Hotstar"
+277	Our Flag Means Death	Wealthy landowner Stede Bonnet decides to become a pirate in 1717.	"Comedy, Adventure"	"Light-hearted, Wholesome"	2022-2023	2	10	7.8	"Google Play Movies, Netflix"
+278	Our Planet	The beauty of Earth's habitats and how climate change affects them.	Documentary	"Visionary, Peaceful"	2019-2023	2	8	9.3	Amazon Prime Video
+279	Outer Banks	A group of teenagers from the wrong side of the tracks stumble upon a treasure map that unearths a long-buried secret.	"Adventure, Crime"	"Suspenseful, Light-hearted"	2020-Present	3	10	7.5	Disney+ Hotstar
+280	Outlander	An English combat nurse from 1945 is mysteriously swept back in time to 1743.	"Drama, Fantasy"	"Romantic, Epic"	2014-Present	7	12	8.4	"Google Play Movies, HBO Max"
+281	Over the Garden Wall	Two brothers find themselves lost in a mysterious forest and try to find their way home.	"Animation, Adventure"	"Whimsical, Dark"	2014	1	10	8.8	HBO Max
+282	Oz	The daily lives and struggles of prisoners and staff in an experimental unit in a maximum security prison.	"Crime, Drama, Thriller"	"Gritty, Intense"	1997-2003	6	8	8.7	Google Play Movies
+283	Ozark	"A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money for a drug cartel."	"Crime, Drama"	"Dark, Intense"	2017-2022	4	10	8.5	YouTube Movies
+284	Pachinko	"Based on the bestseller, this sweeping saga chronicles the hopes and dreams of a Korean immigrant family across four generations."	Drama	"Emotional, Epic"	2022-Present	2	8	8.3	Disney+ Hotstar
+285	Paradise	A detective investigates a murder in a high-security residential community.	"Crime, Mystery"	"Suspenseful, Stylish"	2025-Present	1	8	7.5	Apple TV+
+286	Parks and Recreation	The absurd antics of Indiana's town public officials as they pursue sundry projects to make their city a better place.	Comedy	"Wholesome, Feel-Good"	2009-2015	7	13	8.6	"HBO Max, Google Play Movies"
+287	Party of Five	Five siblings are left to raise themselves after their parents die in a car accident.	"Drama, Family"	"Emotional, Melancholic"	1994-2000	6	22	6.8	"Netflix, Amazon Prime Video"
+288	Passions	The residents of Harmony face supernatural events and family drama.	"Drama, Fantasy"	"Wacky, Dramatic"	1999-2008	9	250	5.1	YouTube Movies
+289	Pawn Stars	The staff of a pawn shop in Las Vegas evaluate various items brought in.	Reality-TV	"Informative, Fun"	2009-Present	22	28	7.2	"Amazon Prime Video, Google Play Movies"
+290	Peacemaker	Peacemaker returns home and realizes his freedom comes at a high cost.	"Action, Comedy"	"Wild, Funny"	2022-Present	2	8	8.3	Google Play Movies
+291	Peaky Blinders	A gangster family epic set in 1900s England.	"Crime, Drama"	"Gritty, Elegant"	2013-2022	6	6	8.8	"Disney+ Hotstar, Google Play Movies"
+292	Peep Show	The lives of two dysfunctional friends shared through their internal monologues.	Comedy	"Funny, Awkward"	2003-2015	9	6	8.7	HBO Max
+293	Person of Interest	An ex-CIA agent and a wealthy programmer save lives throughout New York City with the help of a surveillance AI.	"Action, Sci-Fi"	"Intellectual, Intense"	2011-2016	5	22	8.5	YouTube Movies
+294	Phineas and Ferb	Two stepbrothers decide to make every day of their summer vacation exciting.	"Animation, Comedy"	"Funny, Musical"	2007-2015	4	30	8.1	Disney+ Hotstar
+295	Physical: 100	Contestants in top physical shape compete in challenges to find the best body.	Reality-TV	"Competitive, Intense"	2023-Present	2	9	7.7	Google Play Movies
+296	Pimp My Ride	Cars in poor condition are restored and customized for their owners.	Reality-TV	"Fun, Vibrant"	2004-2007	6	8	5.5	"Apple TV+, Disney+ Hotstar"
+297	Planet Earth	David Attenborough narrates this definitive look at the diversity of the natural world.	Documentary	"Visionary, Peaceful"	2006	1	11	9.4	YouTube Movies
+298	Planet Earth II	David Attenborough presents breathtaking views of life in wild habitats.	Documentary	"Visionary, Peaceful"	2016	1	6	9.5	YouTube Movies
+299	Pluribus	A thought-provoking exploration of a future society governed by unique laws.	"Sci-Fi, Drama"	"Thought-Provoking, Experimental"	2025	1	10	8	Netflix
+300	Pluto	"When the world's seven most advanced robots and their human allies are murdered one by one, Inspector Gesicht realizes he's also in danger."	"Animation, Sci-Fi"	"Thought-Provoking, Dark"	2023	1	8	8.2	"Google Play Movies, Amazon Prime Video"
+301	Pose	Exploring the ball culture world in New York City during the 80s and 90s.	Drama	"Vibrant, Emotional"	2018-2021	3	8	8.6	Netflix
+302	Presumed Innocent	A horrific murder upends the Chicago Prosecuting Attorneys' office when one of its own is suspected of the crime.	"Crime, Drama, Mystery"	"Intense, Suspenseful"	2024-Present	1	8	7.5	"Netflix, Disney+ Hotstar"
+303	Prison Break	"A structural engineer installs himself in a prison he helped design, in order to save his brother."	"Action, Crime"	"Intense, Suspenseful"	2005-2017	5	22	8.3	Apple TV+
+304	Project Runway	Fashion designers compete to create the best clothing collections.	Reality-TV	"Creative, Competitive"	2004-Present	20	14	7.4	"Amazon Prime Video, Netflix"
+305	Psych	A novice sleuth convinces the police he has psychic powers and helps them solve crimes.	"Comedy, Crime"	"Funny, Light-hearted"	2006-2014	8	16	8.3	"Amazon Prime Video, Disney+ Hotstar"
+306	Punk'd	Ashton Kutcher plays elaborate practical jokes on various celebrities.	"Reality-TV, Comedy"	"Funny, Wacky"	2003-2015	10	8	5.1	Amazon Prime Video
+307	Quantum Leap	A scientist travels through time by 'leaping' into the bodies of various people.	"Sci-Fi, Adventure"	"Visionary, Emotional"	1989-1993	5	18	8.2	"YouTube Movies, Disney+ Hotstar"
+308	Queer Eye	The new Fab Five provide lifestyle makeovers to people in various communities.	Reality-TV	"Wholesome, Heartwarming"	2018-Present	8	8	8.5	Google Play Movies
+309	Reacher	"Jack Reacher, a veteran military police investigator, has just recently entered civilian life."	"Action, Crime"	"Intense, Gritty"	2022-Present	2	8	8.1	Google Play Movies
+310	Reagan	A documentary look at the life and presidency of Ronald Reagan.	"Documentary, Biography"	"Informative, Serious"	2005	1	4	8	Disney+ Hotstar
+311	Real Housewives of Atlanta	Follows several affluent women living in Atlanta.	Reality-TV	"Dramatic, Stylish"	2008-Present	15	19	5	"Netflix, YouTube Movies"
+312	Real Housewives of New York City	Follows several affluent women living in Manhattan.	Reality-TV	"Dramatic, Stylish"	2008-Present	15	18	4.8	HBO Max
+313	Real Housewives of Orange County	A look at the lives of several women living in an affluent community.	Reality-TV	"Dramatic, Stylish"	2006-Present	18	17	4.2	Apple TV+
+314	Regular Show	"Two friends, a blue jay and a raccoon, work at a park and have various adventures."	"Animation, Comedy"	"Funny, Wacky"	2010-2017	8	26	8.5	Disney+ Hotstar
+315	Ren & Stimpy	The gross and wacky adventures of a psychotic chihuahua and a dimwitted cat.	"Animation, Comedy"	"Wacky, Dark-Humor"	1991-1995	5	13	7.5	YouTube Movies
+316	Rescue Me	Follows the professional and personal lives of a group of New York City firefighters after 9/11.	Drama	"Intense, Emotional"	2004-2011	7	13	8.3	"Netflix, Google Play Movies"
+317	Reservation Dogs	Four Indigenous teenagers in rural Oklahoma steal and save to get to California.	"Comedy, Drama"	"Wholesome, Melancholic"	2021-2023	3	8	8.2	"Apple TV+, YouTube Movies"
+318	Rick and Morty	A mad scientist and his grandson travel across dimensions and multiverses.	"Animation, Sci-Fi"	"Wacky, Satirical"	2013-Present	7	10	9.1	Netflix
+319	Ripley	A grifter is hired by a wealthy man to travel to Italy to urge his son to return home.	"Crime, Drama, Thriller"	"Dark, Elegant"	2024	1	8	8.2	Netflix
+320	Road Rules	Five strangers are sent on a trip in a motorhome to complete various tasks.	Reality-TV	"Adventurous, Fun"	1995-2007	14	15	6.8	Disney+ Hotstar
+321	Rock of Love	Bret Michaels looks for love among twenty-five different women.	Reality-TV	"Dramatic, Wacky"	2007-2009	3	11	5.2	"Disney+ Hotstar, HBO Max"
+322	Rome	A down-to-earth look at the lives of two ordinary Roman soldiers and their families.	"Historical, Drama"	"Epic, Gritty"	2005-2007	2	11	8.7	"YouTube Movies, Apple TV+"
+323	Roseanne	"Follows the lives of a working-class family in the fictional town of Lanford, Illinois."	Comedy	"Realistic, Funny"	1988-2018	10	22	7.1	"Amazon Prime Video, Netflix"
+324	RuPaul's Drag Race	Drag queens compete to be the next superstar in this reality competition.	Reality-TV	"Fun, Vibrant"	2009-Present	16	14	8.4	"Disney+ Hotstar, HBO Max"
+325	Rugrats	The adventures of a group of toddlers and their imaginative perspective on the world.	"Animation, Family"	"Funny, Whimsical"	1991-2004	9	13	7.5	"Netflix, Disney+ Hotstar"
+326	Sabrina the Teenage Witch	"When a girl turns 16, she discovers she is a witch and lives with her two aunts."	"Comedy, Fantasy"	"Fun, Whimsical"	1996-2003	7	22	6.7	HBO Max
+327	Sacred Games	A police officer uncovers a conspiracy involving a powerful crime lord.	"Crime, Drama"	"Stylish, Intense"	2018-2019	2	8	8.5	Netflix
+328	Samurai Jack	A samurai is sent into the future by an evil demon and must find a way back.	"Animation, Action"	"Epic, Visionary"	2001-2017	5	13	8.5	"Google Play Movies, HBO Max"
+329	Saturday Night Live	A famous late-night live television sketch comedy and variety show.	"Comedy, Music"	"Fun, Topical"	1975-Present	49	21	8	"HBO Max, Disney+ Hotstar"
+330	Satyajit Ray Anthology	A series of short stories based on the works of Satyajit Ray.	Drama	"Intellectual, Visionary"	2021	1	4	7.1	"YouTube Movies, HBO Max"
+331	Say Yes to the Dress	Follows the staff at a bridal salon as they help brides find their dresses.	Reality-TV	"Fun, Wholesome"	2007-Present	23	10	5.6	Google Play Movies
+332	Scavengers Reign	The surviving crew of a damaged deep-space freighter are stranded on a planet.	"Animation, Sci-Fi"	"Experimental, Visionary"	2023	1	12	8.7	Amazon Prime Video
+333	Schitt's Creek	"When a wealthy family suddenly find themselves broke, they are forced to rebuild their lives in their only remaining asset: Schitt's Creek."	Comedy	"Feel-Good, Wholesome"	2015-2020	6	13	8.5	Google Play Movies
+334	Scrubs	"In the unreal world of Sacred Heart Hospital, intern John ""J.D."" Dorian learns about medicine, friendship and life."	"Comedy, Drama"	"Funny, Heartwarming"	2001-2010	9	20	8.4	Amazon Prime Video
+335	Search Party	A group of friends search for a missing college acquaintance.	"Comedy, Mystery"	"Clever, Dark-Humor"	2016-2022	5	10	7.7	"YouTube Movies, Netflix"
+336	Seinfeld	The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic friends.	Comedy	"Satirical, Light-hearted"	1989-1998	9	24	8.9	"Google Play Movies, Amazon Prime Video"
+337	Sense8	"A group of people around the world are suddenly linked mentally, and must find a way to survive."	"Sci-Fi, Drama"	"Visionary, Emotional"	2015-2018	2	12	8.2	YouTube Movies
+338	Sesame Street	An educational children's program featuring Jim Henson's Muppets.	"Family, Musical"	"Wholesome, Educational"	1969-Present	54	30	8.1	"Amazon Prime Video, Netflix"
+339	Severance	Mark leads a team of office workers whose memories have been surgically divided.	"Sci-Fi, Thriller"	"Dark, Thought-Provoking"	2022-Present	2	9	8.7	Apple TV+
+340	Sex and the City	"Four female friends in New York City navigate life, love, and relationships in the late 90s."	"Comedy, Drama, Romance"	"Elegant, Realistic"	1998-2004	6	12	7.3	"Disney+ Hotstar, Netflix"
+341	Shameless	"A scrappy, fiercely loyal Chicago family makes no apologies for their chaotic lives."	"Comedy, Drama"	"Gritty, Wild"	2011-2021	11	12	8.6	"Apple TV+, Disney+ Hotstar"
+342	Shark Tank	Aspiring entrepreneurs pitch their business ideas to a panel of investors.	Reality-TV	"Informative, Competitive"	2009-Present	15	24	7.7	Netflix
+343	Sherlock	A modern update finds the famous sleuth solving crime in 21st century London.	"Mystery, Crime"	"Clever, Suspenseful"	2010-2017	4	3	9.1	Google Play Movies
+344	Shield	A corrupt and effective police unit in Los Angeles.	"Crime, Drama"	"Gritty, Intense"	2002-2008	7	13	8.7	Apple TV+
+345	Shogun	"Set in Japan in the year 1600, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him."	"Historical, Drama"	"Epic, Intense"	2024	1	10	8.7	"Google Play Movies, Amazon Prime Video"
+346	Shrinking	A grieving therapist starts to tell his clients exactly what he thinks.	"Comedy, Drama"	"Feel-Good, Wholesome"	2023-Present	1	10	8	Netflix
+347	Silicon Valley	"Follows the struggle of Richard Hendricks, a Silicon Valley engineer who has a revolutionary app."	Comedy	"Satirical, Intellectual"	2014-2019	6	8	8.5	"YouTube Movies, Netflix"
+348	Silo	"In a ruined, toxic future, a community exists in a giant underground silo."	"Drama, Sci-Fi, Thriller"	"Suspenseful, Dark"	2023-Present	2	10	8.1	"YouTube Movies, Netflix"
+349	Sisters	The lives and relationships of four very different sisters living in Illinois.	Drama	"Emotional, Dramatic"	1991-1996	6	22	7.1	Amazon Prime Video
+350	Six Feet Under	A chronicle of the lives of a dysfunctional family who run a funeral home in Los Angeles.	"Comedy, Drama"	"Emotional, Dark-Humor"	2001-2005	5	12	8.7	"Apple TV+, Disney+ Hotstar"
+351	Skam	Follows a group of teenagers as they navigate high school life in Oslo.	Drama	"Realistic, Emotional"	2015-2017	4	11	8.6	"Apple TV+, Disney+ Hotstar"
+352	Skins	A group of teenagers navigate the challenges of adolescence in Bristol.	Drama	"Gritty, Experimental"	2007-2013	7	10	8.2	"YouTube Movies, Apple TV+"
+353	Sliders	A group of people travel through parallel universes after discovering a gateway.	"Sci-Fi, Adventure"	"Visionary, Fun"	1995-2000	5	13	7.4	HBO Max
+354	Slow Horses	Follows a team of British intelligence agents who serve in a dumping ground department of MI5 due to their career-ending mistakes.	"Drama, Thriller"	"Gritty, Clever"	2022-Present	4	6	8.1	"Apple TV+, YouTube Movies"
+355	Small Axe	Anthology series telling personal stories from London's West Indian community.	"Drama, History"	"Inspirational, Realistic"	2020	1	5	7.8	"Amazon Prime Video, Netflix"
+356	Smallville	The early years of Clark Kent before he became Superman.	"Drama, Sci-Fi"	"Wholesome, Epic"	2001-2011	10	22	7.5	Amazon Prime Video
+357	South Park	"Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park."	"Animation, Comedy"	"Satirical, Dark-Humor"	1997-Present	26	10	8.7	"Apple TV+, HBO Max"
+358	Spartacus	"The life of Spartacus, the gladiator who led a rebellion against the Romans."	"Action, Adventure"	"Violent, Epic"	2010-2013	3	10	8.5	"HBO Max, Google Play Movies"
+359	Spin City	A deputy mayor of New York City and his staff manage the city's affairs and scandals.	Comedy	"Fast-Paced, Witty"	1996-2002	6	22	7.2	Disney+ Hotstar
+360	Spiral	Follows a group of investigators and lawyers as they navigate the French legal system.	"Crime, Drama"	"Gritty, Intense"	2005-2020	8	12	8.5	"Amazon Prime Video, Apple TV+"
+361	SpongeBob SquarePants	The misadventures of a talking sea sponge who lives in a pineapple.	"Animation, Comedy"	"Funny, Whimsical"	1999-Present	14	20	8.2	YouTube Movies
+362	Squid Game	Hundreds of cash-strapped players accept a strange invitation to compete in children's games.	"Thriller, Drama"	"Dark, Violent"	2021-Present	3	9	8	"Disney+ Hotstar, Amazon Prime Video"
+363	Squidbillies	The exploits of a family of anthropomorphic hillbilly mud squids.	"Animation, Comedy"	"Wacky, Satirical"	2005-2021	13	10	6.7	"Apple TV+, HBO Max"
+364	Star Trek: TNG	A new generation of Starfleet officers set out on the U.S.S. Enterprise-D.	"Sci-Fi, Adventure"	"Visionary, Philosophical"	1987-1994	7	26	8.7	Netflix
+365	Star Wars: The Clone Wars	Jedi Knights lead the Grand Army of the Republic against the droid army.	"Animation, Action"	"Epic, Heroic"	2008-2020	7	20	8.4	Disney+ Hotstar
+366	Stargate SG-1	A military team explores the galaxy through an ancient portal.	"Sci-Fi, Adventure"	"Fun, Visionary"	1997-2007	10	22	8.4	Netflix
+367	Station Eleven	A post-apocalyptic saga telling the stories of survivors of a devastating flu.	"Drama, Sci-Fi"	"Thought-Provoking, Emotional"	2021-2022	1	10	7.6	"Amazon Prime Video, Disney+ Hotstar"
+368	Steins Gate	A self-proclaimed mad scientist accidentally discovers time travel.	"Animation, Sci-Fi"	"Intellectual, Emotional"	2011-2015	1	24	8.8	"Netflix, HBO Max"
+369	Step by Step	Two single parents with three children each marry and move in together.	"Comedy, Family"	"Funny, Wholesome"	1991-1998	7	22	6.5	Google Play Movies
+370	Steven Universe	A young boy who is part human and part alien protects Earth with three magical guardians.	"Animation, Action"	"Wholesome, Emotional"	2013-2020	5	26	8.2	"Amazon Prime Video, Google Play Movies"
+371	Storage Wars	Auction hunters bid on abandoned storage units in Southern California.	Reality-TV	"Fun, Competitive"	2010-Present	15	16	6.4	HBO Max
+372	Stranger Things  A group of kids uncover a government conspiracy and a supernatural dimension.	"Sci-Fi, Horror"	"Suspenseful, Nostalgic"	2016-Present	5	9	8.7	"Netflix, HBO Max"
+373	Succession	The Roy family is known for controlling the biggest media company in the world.	"Drama, Comedy"	"Dark-Humor, Intense"	2018-2023	4	10	8.9	"Netflix, Apple TV+"
+374	Sugar	An enigmatic private detective struggles with personal demons as he investigates the disappearance of the granddaughter of a Hollywood producer.	"Crime, Drama, Mystery"	"Stylish, Dark"	2024	1	8	7.5	Amazon Prime Video
+375	Suits	"On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter."	"Drama, Comedy"	"Clever, Intense"	2011-2019	9	16	8.4	HBO Max
+376	Sunny	"An American woman living in Kyoto, Japan, whose life is upended when her husband and son disappear in a mysterious plane crash."	"Comedy, Drama, Mystery"	"Experimental, Thought-Provoking"	2024-Present	1	10	6.8	"Apple TV+, Amazon Prime Video"
+377	Supergirl	Superman's cousin learns to embrace her powers and protect Earth.	"Action, Sci-Fi"	"Light-hearted, Heroic"	2015-2021	6	20	6.2	HBO Max
+378	Supernatural	"Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings."	"Drama, Fantasy"	"Action-Packed, Epic"	2005-2020	15	22	8.4	"Amazon Prime Video, Apple TV+"
+379	Survivor	A reality show where a group of contestants are stranded in a remote location.	Reality-TV	"Competitive, Adventurous"	2000-Present	46	14	7.5	"Google Play Movies, Apple TV+"
+380	Taboo	Adventurer James Keziah Delaney returns to London to build a shipping empire.	"Drama, Mystery"	"Dark, Moody"	2017-Present	1	8	8.3	"Amazon Prime Video, Netflix"
+381	Taskmaster	Comedians compete in absurd tasks assigned by the Taskmaster.	Comedy	"Funny, Wacky"	2015-Present	18	10	8.9	Netflix
+382	Ted Lasso	American football coach Ted Lasso heads to London to manage a struggling soccer team.	"Comedy, Drama"	"Feel-Good, Inspirational"	2020-2023	3	12	8.8	Apple TV+
+383	Teen Mom	Follows the lives of several young mothers as they navigate their teens.	Reality-TV	"Dramatic, Realistic"	2009-2021	9	20	3.6	YouTube Movies
+384	Teen Titans	A group of five teenage superheroes protect Jump City from various threats.	"Animation, Action"	"Heroic, Epic"	2003-2006	5	13	7.9	"Netflix, YouTube Movies"
+385	Territory	"When the world's largest cattle station is left without a clear heir, rival factions descend."	Drama	"Gritty, Intense"	2024-Present	1	6	6.9	Google Play Movies
+386	That '70s Show	"A group of teenage friends live in the fictional town of Point Place, Wisconsin, in the 1970s."	Comedy	"Funny, Nostalgic"	1998-2006	8	25	8.1	Apple TV+
+387	The Acolyte	An investigation into a shocking crime spree pits a respected Jedi Master against a dangerous warrior from his past.	"Action, Adventure, Fantasy"	"Epic, Mystery"	2024	1	8	5.2	YouTube Movies
+388	The Afterparty	"When a high school reunion's afterparty ends in a death, everyone is a suspect."	"Comedy, Mystery"	"Clever, Experimental"	2022-2023	2	10	7.3	Google Play Movies
+389	The Amazing Race	Teams race around the world to win a large cash prize.	Reality-TV	"Exciting, Fun"	2001-Present	36	12	7.8	"Apple TV+, Netflix"
+390	The Americans	Two Soviet spies live as an American couple in suburban DC during the Cold War.	"Crime, Drama"	"Slow-Burn, Intense"	2013-2018	6	13	8.4	"YouTube Movies, Google Play Movies"
+391	The Apprentice	A group of people compete for a job in one of Donald Trump's companies.	Reality-TV	"Competitive, Dramatic"	2004-2017	15	13	5	"Disney+ Hotstar, HBO Max"
+392	The Bachelor	A single man dates multiple women to find his future wife.	Reality-TV	"Dramatic, Fun"	2002-Present	28	12	5	Amazon Prime Video
+393	The Batman	A young Bruce Wayne is in his third year of being Batman and faces various villains.	"Animation, Action"	"Dark, Heroic"	2004-2008	5	13	7.3	HBO Max
+394	The Bear	A young chef from the fine dining world comes home to Chicago to run his family shop.	"Drama, Comedy"	"Intense, Gritty"	2022-Present	3	10	8.6	Apple TV+
+395	The Big Bang Theory	A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists.	Comedy	"Fun, Geeky"	2007-2019	12	22	8.2	"Netflix, Google Play Movies"
+396	The Biggest Loser	Obese people compete to lose the most weight for a cash prize.	Reality-TV	"Emotional, Motivational"	2004-2016	17	13	5.4	Netflix
+397	The Blacklist	"A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal turns himself in."	"Crime, Thriller"	"Suspenseful, Intense"	2013-2023	10	22	7.9	"Disney+ Hotstar, Google Play Movies"
+398	The Boondocks	Two young brothers move from the city to the suburbs to live with their grandfather.	"Animation, Comedy"	"Satirical, Intense"	2005-2014	4	15	8.4	Apple TV+
+399	The Boys	A group of vigilantes set out to take down corrupt superheroes.	"Action, Comedy"	"Violent, Satirical"	2019-Present	4	8	8.7	"YouTube Movies, Netflix"
+400	The Bridge	"A body is found on the bridge between Denmark and Sweden, leading to a joint investigation."	"Crime, Thriller"	"Dark, Suspenseful"	2011-2018	4	10	8.6	HBO Max
+401	The Circle	Contestants live in an apartment and interact only through a social network.	Reality-TV	"Fun, Strategic"	2020-Present	7	13	7.3	"Netflix, HBO Max"
+402	The Colbert Report	Stephen Colbert provides a unique perspective on the world through his character.	"Comedy, Talk-Show"	"Satirical, Intellectual"	2005-2014	10	160	8.4	Disney+ Hotstar
+403	The Comeback	A washed-up sitcom star tries to find her way back to the spotlight.	Comedy	"Funny, Wacky"	2005-2014	2	11	8	YouTube Movies
+404	The Commish	A suburban police commissioner balances his work with his family life.	"Comedy, Crime"	"Light-hearted, Realistic"	1991-1996	5	22	7.1	Amazon Prime Video
+405	The Crown	Follows the political rivalries and romance of Queen Elizabeth II's reign.	"Historical, Drama"	"Elegant, Epic"	2016-2023	6	10	8.6	Google Play Movies
+406	The Curse	A newly married couple struggles to conceive while co-starring on their problematic HGTV show.	"Comedy, Drama"	"Experimental, Awkward"	2023-2024	1	10	7	"HBO Max, YouTube Movies"
+407	The Daily Show with Jon Stewart	A satirical news program that takes a look at top headlines.	"Comedy, Talk-Show"	"Satirical, Intellectual"	1996-2015	16	160	8.3	"Netflix, Disney+ Hotstar"
+408	The Decameron	"As the bubonic plague spreads in Italy, a group of nobles and servants retreats to a villa."	"Comedy, Drama, History"	"Dark-Humor, Experimental"	2024-Present	1	8	6.5	"Google Play Movies, Amazon Prime Video"
+409	The Diplomat	"In the midst of an international crisis, a career diplomat lands in a high-profile job she's unsuited for."	"Drama, Thriller"	"Clever, Intense"	2023-Present	2	6	8	"Apple TV+, YouTube Movies"
+410	The Drew Carey Show	The personal and professional life of an average guy living in Cleveland.	Comedy	"Funny, Wacky"	1995-2004	9	22	7	"Netflix, Amazon Prime Video"
+411	The Dropout	"The story of Elizabeth Holmes and Theranos, a tale of ambition gone wrong."	"Biography, Drama"	"Intense, Realistic"	2022	1	8	7.5	"Disney+ Hotstar, Amazon Prime Video"
+412	The Expanse	"In the 24th century, a group of humans unravel a conspiracy that threatens the solar system."	"Sci-Fi, Mystery"	"Epic, Thought-Provoking"	2015-2022	6	10	8.5	Amazon Prime Video
+413	The Fairly OddParents	A 10-year-old boy is granted two fairy godparents who grant his every wish.	"Animation, Comedy"	"Funny, Whimsical"	2001-2017	10	13	7.2	"Disney+ Hotstar, Apple TV+"
+414	The Flash	A forensic scientist gets superpowers and uses them to fight crime.	"Action, Sci-Fi"	"Engaging, Modern"	2014-2023	9	20	7.5	"Google Play Movies, YouTube Movies"
+415	The Fresh Prince of Bel-Air	A streetwise young man from Philadelphia is sent to live with his wealthy relatives in Bel-Air.	Comedy	"Funny, Wholesome"	1990-1996	6	25	7.9	YouTube Movies
+416	The Gentlemen	Eddie Halstead inherits his father's sizable estate only to discover it's part of a cannabis empire.	"Action, Comedy, Crime"	"Dark-Humor, Stylish"	2024-Present	1	8	8.1	"Google Play Movies, HBO Max"
+417	The Gilded Age	A wide-eyed young scion of a conservative family embarks on a mission to infiltrate the wealthy neighboring clan.	"Drama, Historical"	"Elegant, Slow-Burn"	2022-Present	2	8	8	"HBO Max, Google Play Movies"
+418	The Girls Next Door	Follows the lives of Hugh Hefner's three girlfriends at the Playboy Mansion.	Reality-TV	"Vibrant, Dramatic"	2005-2010	6	15	4.8	"HBO Max, Apple TV+"
+419	The Glory	A woman seeks revenge against those who bullied her in high school.	"Thriller, Drama"	"Dark, Intense"	2022-2023	1	16	8.1	"Disney+ Hotstar, HBO Max"
+420	The Golden Girls	Four mature women live together in a house in Miami and share their lives.	Comedy	"Funny, Wholesome"	1985-1992	7	26	8.1	"Netflix, Google Play Movies"
+421	The Good Fight	A lawyer tries to rebuild her career after a financial scandal ruins her mentor.	"Drama, Crime"	"Intellectual, Fast-Paced"	2017-2022	6	10	8.3	"YouTube Movies, HBO Max"
+422	The Good Place	Four people and their otherworldly facilitator try to define what it means to be good.	"Comedy, Fantasy"	"Thought-Provoking, Wholesome"	2016-2020	4	13	8.2	Disney+ Hotstar
+423	The Good Wife	A politician's wife returns to the law after a public sex and corruption scandal.	"Drama, Crime"	"Intellectual, Intense"	2009-2016	7	22	8.4	"HBO Max, YouTube Movies"
+424	The Great	An anti-historical ride through 18th-century Russia following Catherine the Great.	"Comedy, History"	"Satirical, Dark-Humor"	2020-2023	3	10	8.2	YouTube Movies
+425	The Great British Bake Off	A group of amateur bakers compete in a series of challenges to be crowned best.	Reality-TV	"Wholesome, Feel-Good"	2010-Present	15	10	8.6	"Google Play Movies, HBO Max"
+426	The Grim Adventures of Billy & Mandy	Two children win a game against the Grim Reaper and he becomes their best friend.	"Animation, Comedy"	"Wacky, Dark"	2001-2007	6	13	7.7	"Apple TV+, HBO Max"
+427	The Handmaid's Tale	"Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."	"Drama, Sci-Fi"	"Dark, Intense"	2017-Present	5	10	8.4	"HBO Max, Apple TV+"
+428	The Hills	Follows the personal and professional lives of several young women in L.A.	Reality-TV	"Dramatic, Stylish"	2006-2010	6	17	3.6	Disney+ Hotstar
+429	The IT Crowd	The comedic adventures of a three-person IT support team in a large corporation.	Comedy	"Funny, Geeky"	2006-2013	4	6	8.5	Apple TV+
+430	The Inbetweeners	Four teenage friends navigate the awkwardness of suburban high school.	Comedy	"Funny, Awkward"	2008-2010	3	6	8.4	"HBO Max, Amazon Prime Video"
+431	The Jinx	"The story of the life and crimes of Robert Durst, heir to a New York real estate empire."	"Documentary, Crime"	"Intense, Thought-Provoking"	2015	1	6	8.6	Amazon Prime Video
+432	The L Word	"Follows the lives and loves of a small, close-knit group of lesbians living in Los Angeles."	"Drama, Romance"	"Stylish, Dramatic"	2004-2009	6	12	7.2	"YouTube Movies, Google Play Movies"
+433	The Last Dance	Documentary chronicling Michael Jordan and the 1990s Chicago Bulls.	"Documentary, Biography"	"Inspirational, Intense"	2020	1	10	9.1	HBO Max
+434	The Last Kingdom	"As Alfred the Great defends his kingdom from Norse invaders, Uhtred seeks to claim his ancestral birthright."	"Action, Drama, History"	"Epic, Intense"	2015-2022	5	10	8.5	HBO Max
+435	The Last of Us	"After a global pandemic destroys civilization, a survivor takes charge of a 14-year-old girl."	"Action, Sci-Fi"	"Gritty, Emotional"	2023-Present	2	9	8.8	"Disney+ Hotstar, Amazon Prime Video"
+436	The Late Show with Stephen Colbert	Stephen Colbert provides a unique perspective on the world through a satirical lens.	"Comedy, Talk-Show"	"Intellectual, Satirical"	2015-Present	9	160	7.1	YouTube Movies
+437	The Leftovers	A small town struggles with the global disappearance of 2% of the population.	"Drama, Mystery"	"Emotional, Visionary"	2014-2017	3	10	8.3	YouTube Movies
+438	The Legend of Vox Machina	A group of second-rate adventurers find themselves on a quest to save the realm.	"Animation, Action"	"Fun, Epic"	2022-Present	3	12	8.4	"Apple TV+, Netflix"
+439	The Looney Tunes Show	Bugs Bunny and Daffy Duck live in a suburban neighborhood with various friends.	"Animation, Comedy"	"Funny, Wacky"	2011-2014	2	26	7.9	"YouTube Movies, Apple TV+"
+440	The Man in the High Castle	"In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film."	"Drama, Sci-Fi"	"Dark, Thought-Provoking"	2015-2019	4	10	7.9	"Apple TV+, Netflix"
+441	The Mandalorian	The travels of a lone bounty hunter in the outer reaches of the galaxy.	"Action, Sci-Fi"	"Epic, Feel-Good"	2019-Present	3	8	8.7	Apple TV+
+442	The Marvelous Mrs. Maisel	A housewife in the 1950s decides to become a stand-up comedian.	"Comedy, Drama"	"Light-hearted, Inspirational"	2017-2023	5	8	8.7	"Amazon Prime Video, Netflix"
+443	The Mentalist	A famous 'psychic' outs himself as a fake and starts working as a consultant for the California Bureau of Investigation.	"Crime, Mystery"	"Clever, Suspenseful"	2008-2015	7	22	8.1	"Disney+ Hotstar, Amazon Prime Video"
+444	The Mindy Project	A gynecologist navigates her personal and professional life in New York.	Comedy	"Light-hearted, Fun"	2012-2017	6	20	7.5	"YouTube Movies, HBO Max"
+445	The Morning Show	An inside look at the lives of the people who help America wake up in the morning.	Drama	"Intense, Thought-Provoking"	2019-Present	3	10	8.2	Google Play Movies
+446	The Newsroom	The behind-the-scenes life of a cable news network and its anchor.	Drama	"Intellectual, Fast-Paced"	2012-2014	3	10	8.6	Google Play Movies
+447	The Night Of	A man is accused of murder after a night of partying goes horribly wrong.	"Crime, Mystery"	"Intense, Dark"	2016	1	8	8.5	Google Play Movies
+448	The O.C.	A troubled youth becomes part of a wealthy family in Newport Beach.	"Drama, Romance"	"Vibrant, Dramatic"	2003-2007	4	23	7.5	"HBO Max, Google Play Movies"
+449	The Office	A mockumentary on a group of typical office workers at Dunder Mifflin.	Comedy	"Light-hearted, Wholesome"	2005-2013	9	24	9	"Amazon Prime Video, HBO Max"
+450	The Office (UK)	The story of an office that faces closure when the company starts downsizing.	Comedy	"Funny, Awkward"	2001-2003	2	6	8.5	"YouTube Movies, HBO Max"
+451	The Old Man	A retired CIA officer is forced to go on the run from people trying to kill him.	"Action, Drama, Thriller"	"Intense, Gritty"	2022-Present	2	8	7.6	"Google Play Movies, Amazon Prime Video"
+452	The Penguin	The transformation of Oswald 'Oz' Cobb from a disfigured nobody to a noted Gotham gangster.	"Crime, Drama, Fantasy"	"Dark, Intense"	2024	1	8	8.8	Disney+ Hotstar
+453	The Perfect Couple	Amelia is about to marry into one of the wealthiest families on Nantucket until a shocking death derails the wedding.	"Crime, Drama, Mystery"	"Suspenseful, Light-hearted"	2024	1	6	6.5	"Netflix, HBO Max"
+454	The Pitt	A real-time medical drama set in a busy Pittsburgh hospital.	Drama	"Intense, Realistic"	2025-Present	2	15	8.1	Apple TV+
+455	The Powerpuff Girls	Three superpowered little girls fight crime in the city of Townsville.	"Animation, Action"	"Heroic, Fun"	1998-2005	6	13	7.3	"Google Play Movies, Disney+ Hotstar"
+456	The Practice	Follows the exploits and cases of a defense law firm in Boston.	"Crime, Drama"	"Intellectual, Intense"	1997-2004	8	20	7.7	"HBO Max, Apple TV+"
+457	The Price Is Right	Contestants compete to win prizes by guessing the prices of various items.	Game-Show	"Fun, Energetic"	1972-Present	52	170	7.2	HBO Max
+458	The Queen's Gambit	"Orphaned at 9, a prodigy moves toward the top of the chess world."	Drama	"Elegant, Inspirational"	2020	1	7	8.6	"Google Play Movies, Apple TV+"
+459	The Real World	A group of strangers live together in a different city each season.	Reality-TV	"Dramatic, Realistic"	1992-2019	33	12	5.1	Google Play Movies
+460	The Rehearsal	Nathan Fielder allows people to rehearse difficult life moments with actors.	Comedy	"Experimental, Awkward"	2022-Present	1	6	8.6	"Disney+ Hotstar, Amazon Prime Video"
+461	The Sandman	"A rich blend of modern myth and dark fantasy in which contemporary fiction, historical drama and legend are seamlessly interwoven."	"Fantasy, Drama"	"Epic, Dark"	2022-Present	1	11	7.7	"Netflix, Google Play Movies"
+462	The Shield	Follows the life and day-to-day activities of a corrupt LAPD detective and the unit he leads.	"Crime, Drama, Thriller"	"Gritty, Intense"	2002-2008	7	13	8.7	Apple TV+
+463	The Simpsons	The satiric adventures of a working-class family in the misfit city of Springfield.	"Animation, Comedy"	"Satirical, Fun"	1989-Present	35	22	8.7	Google Play Movies
+464	The Sopranos	New Jersey mob boss Tony Soprano deals with personal and professional issues.	"Crime, Drama"	"Dark, Psychological"	1999-2007	6	13	9.2	"HBO Max, Apple TV+"
+465	The Staircase	A man's life is scrutinized after his wife is found dead at the bottom of a stairs.	"Biography, Crime"	"Suspenseful, Realistic"	2022	1	8	7.1	Apple TV+
+466	The Suite Life of Zack & Cody	Twin brothers live in a luxury hotel where their mother works.	"Comedy, Family"	"Funny, Wholesome"	2005-2008	3	22	6.6	HBO Max
+467	The Surreal Life	Celebrities from different eras live together in a mansion.	Reality-TV	"Wacky, Nostalgic"	2003-2006	6	10	5.4	"YouTube Movies, Netflix"
+468	The Sympathizer	"Based on the Pulitzer Prize-winning novel, a half-French, half-Vietnamese communist spy during the final days of the Vietnam War."	"Drama, History, Thriller"	"Intellectual, Satirical"	2024	1	7	6.9	Amazon Prime Video
+469	The Thick of It	The inner workings of a British government department and its spin doctor.	Comedy	"Satirical, Fast-Paced"	2005-2012	4	7	8.7	"Netflix, YouTube Movies"
+470	The Tonight Show	A late-night talk show featuring celebrity interviews and comedy sketches.	"Comedy, Talk-Show"	"Funny, Wacky"	1954-Present	70	200	7.3	"Google Play Movies, HBO Max"
+471	The Tonight Show Starring Jimmy Fallon	"Late-night talk show featuring interviews, musical performances and comedy sketches."	"Comedy, Talk-Show"	"Vibrant, Fun"	2014-Present	11	150	7.2	"Amazon Prime Video, Google Play Movies"
+472	The Twilight Zone	Ordinary people find themselves in extraordinary and surreal situations.	"Drama, Sci-Fi"	"Thought-Provoking, Dark"	1959-1964	5	30	9.1	YouTube Movies
+473	The Umbrella Academy	"A family of former child heroes, now grown apart, must reunite to continue to protect the world."	"Action, Fantasy"	"Experimental, Dark-Humor"	2019-2024	4	10	7.9	"Amazon Prime Video, Netflix"
+474	The Undoing	A therapist's life begins to unravel after a murder occurs in her circle.	"Drama, Thriller"	"Dramatic, Suspenseful"	2020	1	6	7.4	HBO Max
+475	The Vampire Diaries	"A teenage girl falls in love with a vampire, which sets off a chain of events in her town."	"Drama, Fantasy"	"Dark, Romantic"	2009-2017	8	22	7.7	"Disney+ Hotstar, Amazon Prime Video"
+476	The Veil	Explores the surprising and fraught relationship between two women who play a deadly game of truth and lies.	Thriller	"Suspenseful, Gritty"	2024	1	6	6	"Netflix, Disney+ Hotstar"
+477	The View	A panel of women discuss the day's top headlines and social issues.	Talk-Show	"Topical, Vibrant"	1997-Present	27	240	2.5	"Netflix, Disney+ Hotstar"
+478	The Voice	Four famous musicians search for the best voices in America and mentor them.	"Reality-TV, Music"	"Vibrant, Competitive"	2011-Present	25	24	6.5	Apple TV+
+479	The Walking Dead	Survivors try to stay alive in a world overrun by zombies.	"Horror, Drama"	"Dark, Intense"	2010-2022	11	16	8.1	"Netflix, HBO Max"
+480	The West Wing	Inside the lives of staffers in the West Wing of the White House.	Drama	"Intellectual, Inspirational"	1999-2006	7	22	8.9	"Apple TV+, Disney+ Hotstar"
+481	The White Lotus	The exploits of various guests and employees at an exclusive tropical resort.	"Comedy, Drama"	"Dark-Humor, Thought-Provoking"	2021-Present	2	7	7.9	HBO Max
+482	The Wire	"The Baltimore drug scene, as seen through the eyes of dealers and law enforcement."	"Crime, Drama"	"Gritty, Realistic"	2002-2008	5	12	9.3	Netflix
+483	The Witcher	"Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."	"Fantasy, Action"	"Epic, Dark"	2019-Present	3	8	8	Amazon Prime Video
+484	The X-Files	"Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained."	"Sci-Fi, Mystery"	"Dark, Suspenseful"	1993-2018	11	20	8.6	Amazon Prime Video
+485	The Young and the Restless	The rivalries and romances of several families in the fictional Genoa City.	Drama	"Dramatic, Intense"	1973-Present	51	250	5.1	Disney+ Hotstar
+486	This Is England '90	Follows the lives of the gang as they navigate the rave scene and World Cup summer.	Drama	"Realistic, Emotional"	2015	1	4	8.5	"HBO Max, YouTube Movies"
+487	Those About to Die	Explores a side of Rome never before seen ??the dirty business of entertaining the masses.	"Action, Drama, History"	"Epic, Violent"	2024-Present	1	10	6.7	Apple TV+
+488	Today	A morning news and lifestyle program featuring various segments.	Talk-Show	"Topical, Friendly"	1952-Present	72	260	4.8	"Apple TV+, Amazon Prime Video"
+489	Toddlers & Tiaras	Follows the lives of young children who compete in child beauty pageants.	Reality-TV	"Wacky, Dramatic"	2009-2016	7	10	3.4	"Apple TV+, YouTube Movies"4
+490	Top Boy	Two drug dealers operating at a public housing estate in East London.	"Crime, Drama"	"Gritty, Intense"	2011-2023	5	8	8.4	"Netflix, Apple TV+"
+491	Top Chef	Professional chefs compete in various culinary challenges.	Reality-TV	"Competitive, Fun"	2006-Present	21	14	7.7	Apple TV+
+492	Top Gear	The trio of presenters review the latest cars and take them on wild adventures.	"Comedy, Talk-Show"	"Fun, Exciting"	2002-2024	33	6	8.6	Amazon Prime Video
+493	Total Drama Island	Twenty-two teenagers are sent to a summer camp to compete in various challenges.	"Animation, Comedy"	"Funny, Satirical"	2007-2014	5	26	7.3	HBO Max
+494	Transparent	A family is thrown into turmoil when the patriarch comes out as trans.	"Comedy, Drama"	"Thought-Provoking, Emotional"	2014-2019	5	10	7.8	"Google Play Movies, Amazon Prime Video"
+495	Trapped	"A body is found in a small Icelandic town, coinciding with a blizzard that traps the residents."	"Crime, Mystery"	"Dark, Intense"	2015-2021	3	10	8	"Apple TV+, Amazon Prime Video"
+496	Treme	Life in New Orleans in the aftermath of Hurricane Katrina.	"Drama, Music"	"Realistic, Emotional"	2010-2013	4	10	8.3	"Apple TV+, YouTube Movies"
+497	True Detective	"Police investigations unearth the dark secrets of those involved, both inside and outside the law."	"Crime, Mystery"	"Dark, Slow-Burn"	2014-Present	4	8	8.9	"YouTube Movies, Apple TV+"
+498	Twin Peaks	An idiosyncratic FBI agent investigates the murder of a young woman in an even more idiosyncratic town.	"Mystery, Drama"	"Experimental, Dark"	1990-2017	3	10	8.8	"YouTube Movies, Amazon Prime Video"
+499	Unbreakable Kimmy Schmidt	A woman is rescued from a doomsday cult and starts a new life in New York City.	Comedy	"Funny, Vibrant"	2015-2019	4	13	7.6	"YouTube Movies, Amazon Prime Video"
+500	Under the Banner of Heaven	A detective's faith is tested while investigating a brutal murder.	"Crime, Drama"	"Intense, Thought-Provoking"	2022	1	7	7.5	Netflix
+501	Under the Bridge	The true story of the 1997 disappearance of fourteen-year-old Reena Virk.	"Biography, Crime, Drama"	"Gritty, Realistic"	2024	1	8	7.2	Google Play Movies
+502	Undercover	A group of investigators infiltrate a drug cartel to find the leader.	"Crime, Thriller"	"Intense, Gritty"	2019-2022	3	10	7.7	Disney+ Hotstar
+503	Veep	Former Senator Selina Meyer finds that being Vice President of the United States is nothing like she hoped.	Comedy	"Satirical, Intense"	2012-2019	7	10	8.4	YouTube Movies
+504	Veronica Mars	"A young woman who, after her best friend is murdered, helps her father solve mysteries."	"Crime, Drama"	"Clever, Intense"	2004-2019	4	20	8.4	Netflix
+505	Vikings	Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok.	"Action, Adventure"	"Epic, Violent"	2013-2020	6	10	8.5	"Disney+ Hotstar, Google Play Movies"
+506	Vincenzo	"During a visit to his motherland, a Korean-Italian mafia lawyer gives a conglomerate a taste of its own medicine."	"Comedy, Crime, Drama"	"Intense, Dark-Humor"	2021	1	20	8.4	"Apple TV+, Disney+ Hotstar"
+507	"Walker, Texas Ranger"	A tough Texas Ranger uses his martial arts skills and traditional values to fight crime.	"Action, Crime"	"Heroic, Intense"	1993-2001	9	22	5.6	"Google Play Movies, Disney+ Hotstar"
+508	WandaVision	Wanda and Vision living their ideal suburban lives begin to suspect things are wrong.	"Action, Sci-Fi"	"Experimental, Mysterious"	2021	1	9	7.9	"Apple TV+, YouTube Movies"
+509	Watchmen	Vigilantes are treated as outlaws in an alternate history where superheroes exist.	"Action, Crime"	"Thought-Provoking, Visionary"	2019	1	9	8.2	Google Play Movies
+510	We Were the Lucky Ones	A Jewish family is determined to survive and reunite after being separated in World War II.	"Drama, History, War"	"Emotional, Intense"	2024	1	8	7.4	Disney+ Hotstar
+511	Wednesday	"Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability."	"Comedy, Fantasy"	"Dark-Humor, Suspenseful"	2022-Present	2	8	8.1	HBO Max
+512	Weeds	When a suburban mother turns to selling marijuana to support her family.	"Comedy, Crime, Drama"	"Dark-Humor, Wild"	2005-2012	8	13	7.9	YouTube Movies
+513	Westworld	"In a futuristic theme park, human-like androids begin to gain consciousness."	"Sci-Fi, Western"	"Intellectual, Intense"	2016-2022	4	10	8.5	HBO Max
+514	What We Do in the Shadows	The daily lives of three traditional vampires living on Staten Island.	"Comedy, Fantasy"	"Funny, Wacky"	2019-2024	6	10	8.6	"Amazon Prime Video, HBO Max"
+515	Wheel of Fortune	Contestants solve word puzzles to win prizes determined by a spinning wheel.	Game-Show	"Fun, Simple"	1975-Present	41	195	6.7	Disney+ Hotstar
+516	When They See Us	The story of five teens falsely accused of an assault in Central Park.	"Crime, Drama"	"Emotional, Intense"	2019	1	4	8.9	Apple TV+
+517	White Collar	A con artist agrees to help the FBI catch other elusive criminals in exchange for his freedom.	"Crime, Comedy"	"Clever, Light-hearted"	2009-2014	6	16	8.2	Netflix
+518	White Lotus	   A new set of wealthy travelers experience dark events at a tropical resort in Thailand.	"Comedy, Drama"	"Dark-Humor, Mysterious"	2021-Present	3	7	8	Disney+ Hotstar
+519	Will & Grace	The relationship between a gay lawyer and a straight interior designer in New York City.	Comedy	"Funny, Witty"	1998-2020	11	22	7.3	"Netflix, Amazon Prime Video"
+520	Wings	Two brothers run a small airline in Nantucket and interact with their quirky staff.	Comedy	"Funny, Wholesome"	1990-1997	8	22	7.3	"HBO Max, Amazon Prime Video"
+521	Wolf Hall	Chronicles the rise of Thomas Cromwell in the court of Henry VIII.	"Drama, History"	"Intellectual, Slow-Burn"	2015	1	6	8.1	Google Play Movies
+522	Wonder Woman	Diana of Themyscira travels to the world of men during WWI.	"Action, Fantasy"	"Epic, Heroic"	1975-1979	3	22	7	"YouTube Movies, Google Play Movies"
+523	X-Men '97	A continuation of the '90s animated series following the X-Men after the death of Professor X.	"Animation, Action"	"Epic, Intense"	2024-Present	1	10	8.9	Disney+ Hotstar
+524	Xena: Warrior Princess	A reformed warrior princess travels the world seeking redemption for her past.	"Action, Adventure"	"Epic, Heroic"	1995-2001	6	22	6.7	"Disney+ Hotstar, Google Play Movies"
+525	Yellowjackets	A team of wildly talented high school girls soccer players survive a plane crash deep in the remote northern wilderness.	"Drama, Mystery"	"Dark, Intense"	2021-Present	2	9	7.8	YouTube Movies
+526	Yellowstone	A ranching family in Montana faces off against others encroaching on their land.	"Drama, Western"	"Gritty, Intense"	2018-Present	5	10	8.7	YouTube Movies
+527	Young Justice	A group of teenage superheroes must prove themselves as members of the Justice League.	"Animation, Action"	"Heroic, Intense"	2010-2022	4	26	8.6	Google Play Movies

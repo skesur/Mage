@@ -1,0 +1,451 @@
+book_id	book_title	book_logline	book_type	book_vibes	book_release_year	book_pages	book_ratings	book_platform
+1	1984	A man's struggle for independence in a totalitarian future world.	Fiction	"Dark, Philosophical"	1949	328	4.2	"Amazon Kindle, Apple Books"
+2	"20,000 Leagues Under the Sea"	A voyage in the high-tech submarine Nautilus commanded by Captain Nemo.	Fiction	"Adventurous, Classic"	1870	400	4	"Physical Copy, Apple Books"
+3	21 Lessons for the 21st Century	Explores the most urgent questions of our time and how to prepare.	Non-Fiction	"Intellectual, Visionary"	2018	368	4.2	"Audible, Physical Copy"
+4	A Brief History of Time	A landmark book by Stephen Hawking about the origin and fate of the universe.	Non-Fiction	"Visionary, Technical"	1988	256	4.2	"Physical Copy, Amazon Kindle"
+5	A Christmas Carol	A miserly man learns the true meaning of Christmas through three ghosts.	Fiction	"Heartwarming, Classic"	1843	104	4.1	Apple Books
+6	A Connecticut Yankee in King Arthur's Court	An American man is transported back in time to Camelot.	Fiction	"Funny, Wacky"	1889	400	3.8	Physical Copy
+7	A Court of Thorns and Roses	A huntress is dragged to a magical land and discovers a dangerous secret.	Fiction	"Romantic, Epic"	2015	432	4.2	"Apple Books, Audible"
+8	A Dance with Dragons	"In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance."	Fiction	"Epic, Dark"	2011	1016	4.3	Apple Books
+9	A Farewell to Arms	A romance between an American ambulance driver and an English nurse in WWI.	Fiction	"Emotional, Melancholic"	1929	300	3.8	Google Play Books
+10	A Feast for Crows	"In the Seven Kingdoms, several characters struggle for power following the War of the Five Kings."	Fiction	"Epic, Dark"	2005	753	4.1	Amazon Kindle
+11	A Gentleman in Moscow	An aristocrat is placed under house arrest in a hotel during the Bolshevik Revolution.	Fiction	"Elegant, Reflective"	2016	462	4.3	Physical Copy
+12	A Journey to the Center of the Earth	A professor and his nephew travel into the Earth's interior.	Fiction	"Adventurous, Classic"	1864	300	3.8	Physical Copy
+13	A Little Life	Follows the friendship of four men in NYC as they grapple with a dark past.	Fiction	"Emotional, Melancholic"	2015	720	4.3	Google Play Books
+14	A Portrait of the Artist as a Young Man	The religious and intellectual awakening of young Stephen Dedalus.	Fiction	"Intellectual, Philosophical"	1916	250	3.6	Physical Copy
+15	A Promised Land	A deeply personal account of Barack Obama's presidency and his journey as a leader.	Non-Fiction	"Reflective, Narrative-Driven"	2020	768	4.4	Physical Copy
+16	A Song of Ice and Fire	A series of epic fantasy novels that inspired Game of Thrones.	Fiction	"Epic, Dark"	1996	694	4.4	"Physical Copy, Apple Books"
+17	A Storm of Swords	"In the aftermath of a colossal battle, the future of the Seven Kingdoms hangs in the balance."	Fiction	"Epic, Dark"	2000	973	4.5	Amazon Kindle
+18	A Tale of Two Cities	A story set during the French Revolution in both London and Paris.	Fiction	"Epic, Emotional"	1859	448	4.2	Apple Books
+19	A Thousand Splendid Suns	A moving story of the lives of two women in Afghanistan over several decades.	Fiction	"Emotional, Realistic"	2007	384	4.4	"Apple Books, Physical Copy"
+20	Absolution	"A story set in Vietnam in the 1960s, exploring the lives of the wives of American advisors."	Fiction	"Emotional, Realistic"	2023	336	4	Physical Copy
+21	Alice in Wonderland	A young girl falls down a rabbit hole into a fantastical world.	Fiction	"Whimsical, Classic"	1865	200	4.1	"Physical Copy, Google Play Books"
+22	Alice's Adventures in Wonderland	A young girl falls down a rabbit hole into a fantastical world.	Fiction	"Whimsical, Classic"	1865	200	4.1	"Audible, Physical Copy"
+23	All Quiet on the Western Front	A young German soldier's terrifying experiences on the front in WWI.	Fiction	"Intense, Emotional"	1929	300	4.3	"Physical Copy, Audible"
+24	All the Light We Cannot See	The paths of a blind girl and a German boy collide in occupied France during WWII.	Fiction	"Emotional, Visionary"	2014	531	4.3	Apple Books
+25	American Gods	"Shadow is released from prison and meets the mysterious Mr. Wednesday, who is more than he seems."	Fiction	"Visionary, Dark"	2001	465	4.1	Apple Books
+26	American Psycho	A wealthy New York investment banking executive hides his alternate psychopathic ego.	Fiction	"Violent, Satirical"	1991	399	3.8	Physical Copy
+27	And Then There Were None	Ten strangers on a remote island are killed one by one in a mystery.	Fiction	"Suspenseful, Classic"	1939	272	4.3	Apple Books
+28	Animal Farm	A satirical allegorical novella that tells the story of a group of farm animals who rebel against their human farmer.	Fiction	"Satirical, Philosophical"	1945	112	4	"Apple Books, Physical Copy"
+29	Anna Karenina	The tragic affair between a married aristocrat and a wealthy count in Russia.	Fiction	"Dramatic, Emotional"	1877	800	4.1	Google Play Books
+30	Anne of Green Gables	A spirited orphan is mistakenly sent to live on a farm in Canada.	Fiction	"Wholesome, Heartwarming"	1908	300	4.2	Physical Copy
+31	Anxious Generation	How the great rewiring of childhood is causing an epidemic of mental illness.	Non-Fiction	"Analytical, Eye-Opening"	2024	400	4.3	Google Play Books
+32	Anxious People	A bank robbery that wasn't really a bank robbery and a group of idiots.	Fiction	"Wholesome, Dark-Humor"	2019	352	4	"Audible, Amazon Kindle"
+33	Atmosphere	A sweeping family drama set against the backdrop of a changing Hollywood.	Fiction	"Emotional, Reflective"	2025	380	4.1	Google Play Books
+34	Atomic Habits	A framework for improving every day through tiny changes.	Non-Fiction	"Practical, Analytical"	2018	320	4.4	Google Play Books
+35	Babel	A story of student translators in Oxford and the role of language in empire.	Fiction	"Intellectual, Intense"	2022	544	4.3	Apple Books
+36	Bad Feminist	"A collection of essays exploring culture, politics, and the complexities of feminism."	Non-Fiction	"Intellectual, Satirical"	2014	336	3.9	Physical Copy
+37	Becoming	"A deeply personal memoir by the former First Lady of the United States, Michelle Obama."	Non-Fiction	"Inspirational, Narrative-Driven"	2018	448	4.5	Audible
+38	Bee Sting	A multi-generational saga following an Irish family as their lives begin to unravel.	Fiction	"Dark, Emotional"	2023	656	4	Apple Books
+39	Behind the Beautiful Forevers	"Life, death, and hope in a Mumbai undercity."	Non-Fiction	"Realistic, Powerful"	2012	256	4	"Audible, Apple Books"
+40	Being Mortal	Medicine and what matters in the end regarding life and aging.	Non-Fiction	"Intellectual, Powerful"	2014	282	4.4	"Amazon Kindle, Apple Books"
+41	Bell Jar	A young woman's descent into mental illness during the 1950s.	Fiction	"Emotional, Melancholic"	1963	250	4	Audible
+42	Beloved	A mother's struggle for freedom from slavery and the ghosts of her past.	Fiction	"Emotional, Dark"	1987	324	4	Physical Copy
+43	Between the World and Me	A letter to the author's teenage son about being black in America.	Non-Fiction	"Powerful, Serious"	2015	152	4.4	"Apple Books, Physical Copy"
+44	Big Magic	Creative living beyond fear.	Non-Fiction	"Inspirational, Relaxing"	2015	288	3.9	Audible
+45	Big Swiss	A woman becomes obsessed with a local transcribe and her complicated life.	Fiction	"Wild, Satirical"	2023	336	3.9	"Google Play Books, Audible"
+46	Black Beauty	"The life story of a horse as told by himself, emphasizing kindness."	Fiction	"Wholesome, Classic"	1877	200	4	"Audible, Google Play Books"
+47	Blackouts	Two men in a hospital room explore their shared history and the history of their community.	Fiction	"Experimental, Melancholic"	2023	320	3.7	"Google Play Books, Physical Copy"
+48	Bleak House	A complex story of the legal system and a family's struggle for justice.	Fiction	"Dramatic, Intellectual"	1853	900	4	Amazon Kindle
+49	Blink	The power of thinking without thinking.	Non-Fiction	"Analytical, Eye-Opening"	2005	304	3.9	Amazon Kindle
+50	Bluebeard	A reimagining of the classic fairy tale as a modern-day psychological thriller.	Fiction	"Dark, Suspenseful"	2024	350	4.1	"Amazon Kindle, Google Play Books"
+51	Born a Crime	Stories from a South African childhood by Trevor Noah.	Non-Fiction	"Emotional, Dark-Humor"	2016	304	4.6	Physical Copy
+52	Brave New World	A dystopian novel set in a future where humans are genetically engineered.	Fiction	"Dark, Thought-Provoking"	1932	268	4	Amazon Kindle
+53	Breath	The new science of a lost art about how we breathe.	Non-Fiction	"Informative, Practical"	2020	304	4.3	"Apple Books, Google Play Books"
+54	Brief History of Time	Stephen Hawking explains the origin and fate of the universe.	Non-Fiction	"Visionary, Technical"	1988	256	4.2	Amazon Kindle
+55	Bring Up the Bodies	The story of the downfall of Anne Boleyn in the court of Henry VIII.	Fiction	"Dramatic, Intense"	2012	432	4.2	Apple Books
+56	Call of the Wild	A domestic dog's journey as he adapts to life as a sled dog in the Yukon.	Fiction	"Classic, Adventurous"	1903	160	4	Apple Books
+57	Can't Hurt Me	"Master your mind and defy the odds, from a Navy SEAL."	Non-Fiction	"Inspirational, Intense"	2018	364	4.6	"Apple Books, Physical Copy"
+58	Candide	A young man's journey across the world as he searches for happiness.	Fiction	"Satirical, Wacky"	1759	200	3.8	"Audible, Apple Books"
+59	Catch-22	A satirical novel set during WWII about the absurdities of war.	Fiction	"Satirical, Dark-Humor"	1961	450	4	Audible
+60	Chain-Gang All-Stars	Two top female gladiators in a private prison system fight for freedom.	Fiction	"Intense, Satirical"	2023	384	4.1	"Physical Copy, Google Play Books"
+61	Charlotte's Web	The friendship between a spider and a pig on a farm.	Fiction	"Wholesome, Heartwarming"	1952	200	4.2	"Amazon Kindle, Physical Copy"
+62	Christmas Carol	A miserly man learns the true meaning of Christmas through three ghosts.	Fiction	"Heartwarming, Classic"	1843	104	4.1	"Google Play Books, Apple Books"
+63	Circe	The story of the Greek goddess Circe and her journey of self-discovery.	Fiction	"Reflective, Narrative-Driven"	2018	393	4.2	"Google Play Books, Physical Copy"
+64	Cloud Atlas	Six nested stories that take place across different centuries and locations.	Fiction	"Experimental, Epic"	2004	509	4	"Google Play Books, Physical Copy"
+65	Cloud Cuckoo Land	Five characters across different time periods are linked by an ancient Greek text.	Fiction	"Visionary, Emotional"	2021	640	4.3	"Apple Books, Amazon Kindle"
+66	Coming Wave	"Technology, Power, and the Twenty-first Century's Greatest Dilemma."	Non-Fiction	"Visionary, Technical"	2023	432	4	Google Play Books
+67	Count of Monte Cristo	A man wrongfully imprisoned escapes to find treasure and exact revenge.	Fiction	"Epic, Intense"	1844	1276	4.2	Amazon Kindle
+68	Crime and Punishment	A young man commits a murder and struggles with the moral consequences.	Fiction	"Dark, Philosophical"	1866	671	4.2	"Google Play Books, Amazon Kindle"
+69	Crying in H Mart	"A memoir about food, grief, and the author's relationship with her mother."	Non-Fiction	"Emotional, Realistic"	2021	256	4.3	"Google Play Books, Apple Books"
+70	Cutting for Stone	Twins born of a secret union between a nun and a surgeon come of age in Ethiopia.	Fiction	"Epic, Emotional"	2009	541	4.3	"Google Play Books, Audible"
+71	Dark Matter	A physicist is kidnapped and wakes up in a different version of his life.	Fiction	"Intense, Visionary"	2016	352	4.1	Audible
+72	David Copperfield	The life and personal development of an orphan in 19th-century England.	Fiction	"Emotional, Classic"	1850	800	4.1	"Amazon Kindle, Apple Books"
+73	Decameron	100 stories told by a group of young people escaping the plague.	Fiction	"Wacky, Classic"	1353	800	3.9	"Audible, Amazon Kindle"
+74	Deep Work	Rules for focused success in a distracted world.	Non-Fiction	"Practical, Challenging"	2016	304	4.2	"Google Play Books, Physical Copy"
+75	Demon Copperhead	A modern retelling of David Copperfield set in Appalachia.	Fiction	"Gritty, Emotional"	2022	560	4.5	"Physical Copy, Audible"
+76	Determined	"A science of life without free will, explores the biological and environmental factors that shape us."	Non-Fiction	"Technical, Philosophical"	2023	528	4.1	"Amazon Kindle, Apple Books"
+77	Doctor Zhivago	A physician and poet falls in love during the Russian Revolution.	Fiction	"Epic, Emotional"	1957	600	3.9	"Google Play Books, Apple Books"
+78	Don Quixote	A man who believes he is a knight goes on an epic and absurd adventure.	Fiction	"Funny, Visionary"	1605	1000	3.8	Physical Copy
+79	Dopamine Nation	Finding balance in the age of indulgence.	Non-Fiction	"Informative, Realistic"	2021	304	4.2	Amazon Kindle
+80	Dracula	Vampire's curse in England.	"Fiction, Horror"	"Dark, Classic"	1897	418	4	Amazon Kindle
+81	Dune	A young noble becomes embroiled in a struggle for control of a desert planet.	Fiction	"Epic, Visionary"	1965	412	4.2	"Audible, Amazon Kindle"
+82	Eat Pray Love	"A woman journeys through Italy, India, and Indonesia to find herself after a divorce."	Non-Fiction	"Inspirational, Reflective"	2006	334	3.6	Physical Copy
+83	Educated	A memoir of a young woman who leaves her survivalist family to pursue education.	Non-Fiction	"Inspirational, Reflective"	2018	352	4.5	Amazon Kindle
+84	Ego Is the Enemy	Overcoming our greatest opponent: the ego.	Non-Fiction	"Philosophical, Practical"	2016	256	4.1	Apple Books
+85	Elon Musk	"A biography of the entrepreneur and visionary, exploring his life and his impact on technology."	Non-Fiction	"Informative, Narrative-Driven"	2023	688	4.1	Physical Copy
+86	Empire of Pain	The secret history of the Sackler dynasty and the opioid crisis.	Non-Fiction	"Dark, Narrative-Driven"	2021	560	4.6	Physical Copy
+87	Enchantment	Finding wonder and magic in the modern world during an anxious age.	Non-Fiction	"Reflective, Heartwarming"	2023	240	4	Physical Copy
+88	Essentialism	The disciplined pursuit of less.	Non-Fiction	"Practical, Realistic"	2014	272	4.1	"Apple Books, Audible"
+89	Everything I Never Told You	A story of a Chinese American family in 1970s Ohio facing a disappearance.	Fiction	"Emotional, Realistic"	2014	292	3.8	"Google Play Books, Amazon Kindle"
+90	Evicted	Explores the lives of eight families in Milwaukee as they struggle to keep their homes.	Non-Fiction	"Serious, Powerful"	2016	418	4.5	"Amazon Kindle, Audible"
+91	Exit West	Two young lovers leave their war-torn country through a mysterious door.	Fiction	"Visionary, Emotional"	2017	231	3.8	"Apple Books, Audible"
+92	Extreme Ownership	"How U.S. Navy SEALs lead and win, and how you can apply those principles to your life."	Non-Fiction	"Practical, Intense"	2015	320	4.3	"Apple Books, Amazon Kindle"
+93	Factfulness	Ten reasons we're wrong about the world and why things are better than you think.	Non-Fiction	"Informative, Analytical"	2018	342	4.4	"Audible, Amazon Kindle"
+94	Fahrenheit 451	A dystopian novel about a future American society where books are outlawed and 'firemen' burn any that are found.	Fiction	"Dark, Thought-Provoking"	1953	194	4	Physical Copy
+95	Fairy Tale	A boy discovers a portal to a magical world where a battle between good and evil is brewing.	Fiction	"Epic, Visionary"	2022	608	4.1	"Amazon Kindle, Google Play Books"
+96	Far from Madding Crowd	A woman's relationships with three suitors in rural England.	Fiction	"Romantic, Dramatic"	1874	500	4.1	"Google Play Books, Amazon Kindle"
+97	Far from the Madding Crowd	A woman's relationships with three very different suitors in rural England.	Fiction	"Romantic, Dramatic"	1874	500	4.1	"Google Play Books, Physical Copy"
+98	Farewell to Arms	A romance between an American ambulance driver and an English nurse in WWI.	Fiction	"Emotional, Melancholic"	1929	300	3.8	Physical Copy
+99	Fates and Furies	A story of a marriage told from two different perspectives.	Fiction	"Dramatic, Realistic"	2015	390	3.6	Google Play Books
+100	Fathers and Sons	The conflict between the generations in mid-19th-century Russia.	Fiction	"Intellectual, Dramatic"	1862	250	4.1	"Amazon Kindle, Apple Books"
+101	Finnegans Wake	A challenging and experimental work that explores dreams and mythology.	Fiction	"Experimental, Surreal"	1939	600	3.3	Google Play Books
+102	Fire Weather	The story of a massive wildfire and the impact of climate change in Canada.	Non-Fiction	"Urgent, Atmospheric"	2023	432	4.3	"Google Play Books, Amazon Kindle"
+103	Flow	Explores the state of optimal experience and how to achieve it in daily life.	Non-Fiction	"Analytical, Practical"	1990	336	4.1	"Apple Books, Physical Copy"
+104	Flowers for Algernon	The story of a man who undergoes an experiment to increase his intelligence.	Fiction	"Emotional, Thought-Provoking"	1959	311	4.1	Google Play Books
+105	For Whom the Bell Tolls	An American volunteer in the Spanish Civil War is tasked with blowing up a bridge.	Fiction	"Epic, Intense"	1940	500	3.9	Apple Books
+106	Foundation	A mathematician develops a science that can predict the future of the galaxy.	Fiction	"Visionary, Epic"	1951	255	4.2	"Apple Books, Physical Copy"
+107	Foundations of Geopolitics	A geopolitical book that has influenced Russian military policy.	Non-Fiction	"Technical, Dark"	1997	600	3.5	"Audible, Apple Books"
+108	Fourth Wing	"Violet Sorrengail must survive a deadly dragon rider academy, where the competition is fierce and the stakes are life or death."	Fiction	"Epic, Intense"	2023	528	4.6	Amazon Kindle
+109	Frankenstein	A scientist creates a living creature and must face the consequences.	Fiction	"Dark, Visionary"	1818	280	3.8	Physical Copy
+110	Freakonomics	Explores the hidden side of everything through the lens of economic principles.	Non-Fiction	"Analytical, Eye-Opening"	2005	315	4	"Amazon Kindle, Audible"
+111	Freedom	"A family saga set in the U.S., following the lives of the Berglund family."	Fiction	"Realistic, Dramatic"	2010	562	3.7	Audible
+112	Funny Story	"Daphne and Miles, who were left by their respective partners for each other, become unlikely roommates."	Fiction	"Light-hearted, Romantic"	2024	400	4.3	Google Play Books
+113	God Is Not Great	Hitchens argues against religion as a force of evil in the world.	Non-Fiction	"Analytical, Intense"	2007	307	4	Apple Books
+114	Gone Girl	"On his fifth wedding anniversary, Nick Dunne reports that his wife, Amy, has gone missing."	Fiction	"Intense, Dark"	2012	415	4.1	Google Play Books
+115	Gone with the Wind	A woman's struggle to survive in the South during the American Civil War.	Fiction	"Epic, Romantic"	1936	1000	4.3	Physical Copy
+116	Goon	A small-town thug joins a minor-league hockey team and becomes their enforcer.	Fiction	"Gritty, Funny"	2002	250	3.7	"Google Play Books, Apple Books"
+117	Great Expectations	A young orphan's growth and personal development throughout his life.	Fiction	"Classic, Emotional"	1861	544	4.1	Amazon Kindle
+118	Greenlights	"A memoir by Matthew McConaughey about his life, career, and the lessons he's learned along the way."	Non-Fiction	"Inspirational, Light-hearted"	2020	304	4.2	"Audible, Physical Copy"
+119	Grit	The power of passion and perseverance.	Non-Fiction	"Inspirational, Practical"	2016	352	4.1	"Audible, Google Play Books"
+120	Grit: The Power of Passion and Perseverance	Explores why grit is a better predictor of success than talent or IQ.	Non-Fiction	"Inspirational, Practical"	2016	352	4.1	Amazon Kindle
+121	Gulliver's Travels	A ship's surgeon travels to several remote and absurd lands.	Fiction	"Wacky, Classic"	1726	336	3.6	Apple Books
+122	"Guns, Germs, and Steel"	The fates of human societies based on geography and environment.	Non-Fiction	"Informative, Analytical"	1997	480	4	Amazon Kindle
+123	H is for Hawk	A memoir of grieving for a father by training a goshawk.	Non-Fiction	"Emotional, Reflective"	2014	300	4	Google Play Books
+124	Half the Sky	Examines the oppression of women and girls in the developing world.	Non-Fiction	"Serious, Powerful"	2009	320	4.5	"Apple Books, Google Play Books"
+125	Hamilton: The Revolution	A look at the creation of the musical Hamilton.	Non-Fiction	"Inspirational, Vibrant"	2016	288	4.5	"Physical Copy, Google Play Books"
+126	Hamnet	A fictionalized account of the life and death of Shakespeare's only son.	Fiction	"Emotional, Poetic"	2020	372	4.2	"Google Play Books, Audible"
+127	Happy Place	A couple who broke up months ago pretend to still be together for their annual week-long vacation with their best friends.	Fiction	"Emotional, Romantic"	2023	400	4.1	"Google Play Books, Physical Copy"
+128	Hard Thing About Hard Things	Building a business when there are no easy answers or simple paths.	Non-Fiction	"Practical, Realistic"	2014	304	4.2	Physical Copy
+129	Harry Potter and the Chamber of Secrets	"Harry returns for his second year at Hogwarts, only to face a mysterious threat."	Fiction	"Adventurous, Mysterious"	1998	341	4.4	Apple Books
+130	Harry Potter and the Deathly Hallows	The final showdown between Harry and Voldemort for the fate of the wizarding world.	Fiction	"Epic, Emotional"	2007	759	4.6	Physical Copy
+131	Harry Potter and the Goblet of Fire	Harry is unexpectedly entered into the dangerous Triwizard Tournament.	Fiction	"Epic, Intense"	2000	734	4.6	"Physical Copy, Google Play Books"
+132	Harry Potter and the Half-Blood Prince	Harry learns about Voldemort's past as he prepares for the final battle.	Fiction	"Dark, Intense"	2005	652	4.6	Physical Copy
+133	Harry Potter and the Order of the Phoenix	"Harry faces the rise of Voldemort and a new, oppressive regime at Hogwarts."	Fiction	"Dark, Emotional"	2003	870	4.5	"Audible, Apple Books"
+134	Harry Potter and the Prisoner of Azkaban	Harry learns about a dangerous escaped prisoner who may be after him at school.	Fiction	"Dark, Adventurous"	1999	435	4.6	"Google Play Books, Amazon Kindle"
+135	Harry Potter and the Sorcerer's Stone	A young boy discovers he is a wizard and begins his education at Hogwarts.	Fiction	"Visionary, Hopeful"	1997	309	4.5	"Audible, Google Play Books"
+136	Heidi	An orphaned girl's life with her grandfather in the Swiss Alps.	Fiction	"Wholesome, Classic"	1881	300	4	"Apple Books, Audible"
+137	Hell Followed with Us	A boy escapes a cult and searches for a home in a post-apocalyptic world.	Fiction	"Dark, Intense"	2022	416	4.2	Google Play Books
+138	Hello Beautiful	A story about four sisters and the impact of a young man who enters their lives.	Fiction	"Wholesome, Emotional"	2023	400	4.2	"Amazon Kindle, Google Play Books"
+139	High Fidelity	A record store owner recounts his top five most memorable breakups.	Fiction	"Realistic, Witty"	1995	323	4	"Amazon Kindle, Google Play Books"
+140	Hillbilly Elegy	A memoir about the culture of the white working class in Appalachia.	Non-Fiction	"Realistic, Emotional"	2016	264	3.8	"Apple Books, Audible"
+141	History of Tom Jones	A young man's adventures as he tries to find his way in the world.	Fiction	"Funny, Classic"	1749	900	3.7	Physical Copy
+142	Homo Deus	An exploration of the future of humanity and our potential evolution through technology.	Non-Fiction	"Visionary, Philosophical"	2015	449	4.2	"Google Play Books, Amazon Kindle"
+143	Horse	A novel based on the true story of the record-breaking thoroughbred Lexington.	Fiction	"Inspirational, Narrative-Driven"	2022	416	4.4	"Apple Books, Physical Copy"
+144	House of Seven Gables	A family is cursed by a judge during the Salem witch trials.	Fiction	"Dark, Classic"	1851	300	3.5	"Audible, Google Play Books"
+145	How to Say Babylon	A memoir of the author's upbringing in a strict Rastafarian community.	Non-Fiction	"Powerful, Emotional"	2023	352	4.5	Physical Copy
+146	How to Win Friends and Influence People	The classic guide to improving your social skills.	Non-Fiction	"Practical, Inspirational"	1936	288	4.2	"Audible, Amazon Kindle"
+147	Huckleberry Finn	A boy and a runaway slave travel down the Mississippi River together.	Fiction	"Adventurous, Realistic"	1884	300	3.9	"Apple Books, Amazon Kindle"
+148	Hyperbole and a Half	"Unfortunate situations, flawed coping mechanisms, and other things that happened."	Non-Fiction	"Funny, Wacky"	2013	369	4.2	Apple Books
+149	Hyperion	Seven pilgrims travel to the Shrike to save the world from destruction.	Fiction	"Epic, Visionary"	1989	482	4.3	Audible
+150	Ikigai	The Japanese secret to a long and happy life.	Non-Fiction	"Inspirational, Relaxing"	2016	208	4	"Apple Books, Amazon Kindle"
+151	Indulgence	The story of the cocoa industry and the people who fought to change it.	Non-Fiction	"Informative, Realistic"	2024	352	4	"Physical Copy, Audible"
+152	Infinite Jest	A complex multi-layered novel set in a future North America.	Fiction	"Experimental, Intellectual"	1996	1079	4.3	Physical Copy
+153	Intermezzo	A subtle and powerful new novel about the lives of two brothers after a death.	Fiction	"Realistic, Emotional"	2024	448	4.1	"Physical Copy, Apple Books"
+154	Invisible Life of Addie LaRue	A woman makes a deal to live forever but is forgotten by everyone she meets.	Fiction	"Melancholic, Romantic"	2020	442	4.2	"Amazon Kindle, Google Play Books"
+155	Iron Flame	"The sequel to Fourth Wing, following Violet as she continues her training and faces new threats."	Fiction	"Epic, Intense"	2023	623	4.3	"Google Play Books, Apple Books"
+156	Ivanhoe	A knight's adventures in 12th-century England during the Crusades.	Fiction	"Adventurous, Classic"	1819	500	3.7	Audible
+157	James	"A reimagining of Adventures of Huckleberry Finn, told from the perspective of Jim."	Fiction	"Thought-Provoking, Narrative-Driven"	2024	320	4.5	"Physical Copy, Amazon Kindle"
+158	Jane Eyre	The life and loves of an orphaned girl who becomes a governess for a mysterious man.	Fiction	"Romantic, Emotional"	1847	532	4.1	"Google Play Books, Physical Copy"
+159	Journey to Center of Earth	A professor and his nephew travel into the Earth's interior.	Fiction	"Adventurous, Classic"	1864	300	3.8	"Amazon Kindle, Audible"
+160	Jurassic Park	A wealthy businessman creates a theme park on an island featuring living dinosaurs.	Fiction	"Intense, Visionary"	1990	448	4	Audible
+161	Kidnapped	A young man is kidnapped by his uncle and must find his way home.	Fiction	"Adventurous, Classic"	1886	300	3.8	Apple Books
+162	Killers of the Flower Moon	The Osage murders and the birth of the FBI.	Non-Fiction	"Dark, Narrative-Driven"	2017	352	4.2	Amazon Kindle
+163	Kim	An orphan's adventures in 19th-century India as he becomes a spy.	Fiction	"Adventurous, Visionary"	1901	400	3.9	Physical Copy
+164	King: A Life	"A biography of Martin Luther King Jr., exploring his life and legacy as a civil rights leader."	Non-Fiction	"Inspirational, Narrative-Driven"	2023	688	4.6	"Amazon Kindle, Apple Books"
+165	Knife	"Meditations after an attempted murder, a memoir by Salman Rushdie about his survival and resilience."	Non-Fiction	"Emotional, Reflective"	2024	224	4.4	"Google Play Books, Amazon Kindle"
+166	Lady Chatterley's Lover	The relationship between an upper-class woman and her gamekeeper.	Fiction	"Romantic, Bold"	1928	300	3.6	"Audible, Amazon Kindle"
+167	Last of the Mohicans	A story set during the French and Indian War in the American wilderness.	Fiction	"Adventurous, Classic"	1826	400	3.7	Amazon Kindle
+168	Les Mis??rables	The story of an ex-convict seeking redemption while pursued by a detective.	Fiction	"Epic, Emotional"	1862	1400	4.2	Physical Copy
+169	Lessons in Chemistry	A female scientist in the 1960s becomes a TV cooking show host.	Fiction	"Inspirational, Realistic"	2022	400	4.3	Apple Books
+170	Life 3.0	Being human in the age of Artificial Intelligence.	Non-Fiction	"Visionary, Technical"	2017	384	4.1	"Audible, Google Play Books"
+171	Life After Life	Ursula Todd dies and is born again and again in a cycle of lives during WWII.	Fiction	"Experimental, Thought-Provoking"	2013	522	4.1	Apple Books
+172	Life of Pi	A young man who survives a disaster at sea is hurtled into an epic journey of discovery.	Fiction	"Visionary, Philosophical"	2001	319	3.9	"Google Play Books, Amazon Kindle"
+173	Life's Work	"A memoir by a legendary leader in their field, reflecting on their career and life."	Non-Fiction	"Inspirational, Reflective"	2024	300	4.2	Physical Copy
+174	Lincoln in the Bardo	Abraham Lincoln visits the cemetery where his young son has been laid to rest.	Fiction	"Experimental, Emotional"	2017	343	3.8	"Google Play Books, Audible"
+175	Little Women	The lives of four sisters growing up in Civil War-era America.	Fiction	"Heartwarming, Wholesome"	1868	449	4.1	"Google Play Books, Apple Books"
+176	Long Island	"The sequel to Brooklyn, following Eilis Lacey as she returns to Ireland years later."	Fiction	"Emotional, Realistic"	2024	304	4	"Audible, Physical Copy"
+177	Lord Jim	A young seaman struggles with his conscience after abandoning his ship.	Fiction	"Reflective, Intense"	1900	400	3.5	"Audible, Apple Books"
+178	Lord of the Flies	A group of boys stranded on an island descend into savagery.	Fiction	"Dark, Thought-Provoking"	1954	200	3.7	Apple Books
+179	Lord of the Rings	A hobbit must destroy a powerful ring to save the world from an ancient evil.	Fiction	"Epic, Narrative-Driven"	1954	1178	4.5	Physical Copy
+180	M Train	"A memoir of the author's travels, her coffee, and her experiences."	Non-Fiction	"Reflective, Poetic"	2015	253	3.9	Physical Copy
+181	Madame Bovary	A woman's affairs and debts in provincial France lead to tragedy.	Fiction	"Dramatic, Realistic"	1856	350	3.6	Audible
+182	Man's Search for Meaning	A psychiatrist's memoir of his survival in Nazi concentration camps.	Non-Fiction	"Emotional, Philosophical"	1946	165	4.4	Amazon Kindle
+183	Manacled	A high-stakes drama set in a dystopian future where survival is paramount.	Fiction	"Dark, Intense"	2023	500	4.3	Audible
+184	Mansfield Park	A young girl from a poor family is sent to live with her wealthy relatives.	Fiction	"Dramatic, Classic"	1814	500	3.8	Physical Copy
+185	Marriage Portrait	A woman in Renaissance Italy is forced into a marriage that may be her undoing.	Fiction	"Intense, Atmospheric"	2022	352	4.1	"Amazon Kindle, Apple Books"
+186	Master Slave Husband Wife	A couple who escaped slavery by pretending to be a master and slave.	Non-Fiction	"Inspirational, Intense"	2023	416	4.4	"Audible, Apple Books"
+187	Meditations	The private thoughts of the Roman Emperor Marcus Aurelius on Stoic philosophy.	Non-Fiction	"Philosophical, Reflective"	180	254	4.3	Audible
+188	Midnight Library	A woman discovers a library where she can explore the lives she could have lived.	Fiction	"Reflective, Hopeful"	2020	304	4	"Google Play Books, Physical Copy"
+189	Milkman	"Follows a young woman being harassed by an older, married man in a divided city."	Fiction	"Experimental, Intense"	2018	360	3.5	Audible
+190	Mindset	Explores how our beliefs about our abilities can lead to success or failure.	Non-Fiction	"Inspirational, Practical"	2006	320	4	Audible
+191	Misery	A famous author is rescued from a car crash by his number one fan.	Fiction	"Dark, Intense"	1987	320	4.2	Physical Copy
+192	Moby-Dick	Ahab's quest for the white whale.	"Fiction, Classic"	"Epic, Philosophical"	1851	635	3.5	"Apple Books, Google Play Books"
+193	Mother Mary Comes to Me	A memoir about social transformation and family activism in Kerala.	Non-Fiction	"Reflective, Inspirational"	2025	320	4.5	Audible
+194	My Antonia	Friendship between an orphan boy and a girl from a bohemian family in Nebraska.	Fiction	"Wholesome, Reflective"	1918	300	4.1	"Apple Books, Audible"
+195	My ? ntonia	The friendship between an orphan boy and a girl from a bohemian family in Nebraska.	Fiction	"Wholesome, Reflective"	1918	300	4.1	Google Play Books
+196	Name of the Wind	A young man grows up to become the most notorious wizard in the world.	Fiction	"Epic, Narrative-Driven"	2007	662	4.5	"Google Play Books, Audible"
+197	Neuromancer	A washed-up computer hacker is hired by a mysterious employer.	Fiction	"Visionary, Dark"	1984	271	3.9	"Physical Copy, Audible"
+198	Never Get Your Hopes Up	A cynical look at the disappointments of daily life through humorous essays.	Non-Fiction	"Satirical, Witty"	1999	200	3.5	Apple Books
+199	Never Let Me Go	Three friends grow up at a boarding school with a dark secret.	Fiction	"Melancholic, Thought-Provoking"	2005	288	3.8	"Apple Books, Amazon Kindle"
+200	Never Split the Difference	"Negotiating as if your life depended on it, from an FBI negotiator."	Non-Fiction	"Practical, Intense"	2016	288	4.4	"Google Play Books, Audible"
+201	Nexus	A brief history of information networks from the Stone Age to AI.	Non-Fiction	"Informative, Philosophical"	2024	544	4.2	Amazon Kindle
+202	Night Circus	A mysterious circus features a competition between two powerful magicians.	Fiction	"Visionary, Romantic"	2011	387	4	"Physical Copy, Google Play Books"
+203	Nineteen Eighty-Four	A man struggles for independence in a totalitarian future world.	Fiction	"Dark, Philosophical"	1949	328	4.2	Physical Copy
+204	Noise	"A flaw in human judgment, explores how noise contributes to error in decision-making."	Non-Fiction	"Analytical, Technical"	2021	464	3.8	"Audible, Physical Copy"
+205	Normal People	"The story of an on-again, off-again relationship between two teenagers."	Fiction	"Emotional, Realistic"	2018	273	3.9	"Physical Copy, Google Play Books"
+206	North Woods	"A novel that spans centuries, following the inhabitants of a single house in the Massachusetts woods."	Fiction	"Visionary, Reflective"	2023	384	4.1	Google Play Books
+207	Notes on Grief	A meditation on the author's loss of her father.	Non-Fiction	"Emotional, Reflective"	2021	96	4.4	"Physical Copy, Audible"
+208	Number Go Up	Inside Crypto's Wild Rise and Staggering Fall.	Non-Fiction	"Analytical, Dark-Humor"	2023	432	4.3	Apple Books
+209	Old Man and the Sea	An elderly fisherman's battle with a giant marlin in the Gulf Stream.	Fiction	"Reflective, Classic"	1952	128	3.8	"Physical Copy, Audible"
+210	Oliver Twist	An orphan's adventures among criminals in the streets of London.	Fiction	"Dramatic, Classic"	1838	500	4	Physical Copy
+211	On the Edge	"The art of risking everything, explores the world of professional gamblers and high-stakes risk-takers."	Non-Fiction	"Analytical, Intense"	2024	592	4.1	Google Play Books
+212	One Hundred Years of Solitude	The multi-generational story of the Buend??a family in Macondo.	Fiction	"Visionary, Reflective"	1967	417	4.1	"Apple Books, Google Play Books"
+213	Orbital	Six astronauts aboard the International Space Station observe the earth during a single day.	Fiction	"Visionary, Reflective"	2023	192	4.1	Physical Copy
+214	Our Missing Hearts	A mother's search for her son in a future where families are separated.	Fiction	"Powerful, Emotional"	2022	336	4	"Amazon Kindle, Audible"
+215	Outliers	Explores the factors that contribute to high levels of success.	Non-Fiction	"Analytical, Eye-Opening"	2008	309	4.2	"Physical Copy, Google Play Books"
+216	Outliers: The Story of Success	"Explores the factors that contribute to high levels of success, from culture to opportunity."	Non-Fiction	"Analytical, Eye-Opening"	2008	309	4.2	Apple Books
+217	Outlive	A guide to living a longer and healthier life through science-backed habits.	Non-Fiction	"Informative, Practical"	2023	496	4.5	"Apple Books, Amazon Kindle"
+218	Overstory	Life experiences with trees bring nine Americans together to save forests.	Fiction	"Thought-Provoking, Emotional"	2018	512	4.1	Apple Books
+219	Pere Goriot	The lives of several people living in a boarding house in 19th-century Paris.	Fiction	"Dramatic, Realistic"	1835	300	3.9	Google Play Books
+220	Persuasion	A young woman is persuaded to end her engagement to a man she loves.	Fiction	"Romantic, Reflective"	1817	300	4.1	"Audible, Amazon Kindle"
+221	Peter Pan	The adventures of a boy who refuses to grow up in Neverland.	Fiction	"Whimsical, Adventurous"	1911	200	4.1	"Apple Books, Audible"
+222	Picture of Dorian Gray	Dorian Gray's portrait ages.	"Fiction, Classic"	"Dark, Classic"	1890	254	4.1	"Audible, Amazon Kindle"
+223	Pilgrim's Progress	A man's allegorical journey from the City of Destruction to the Celestial City.	Fiction	"Classic, Philosophical"	1678	324	3.8	"Physical Copy, Google Play Books"
+224	Pinocchio	A wooden puppet goes on adventures to become a real boy.	Fiction	"Whimsical, Classic"	1883	200	3.9	"Audible, Physical Copy"
+225	Portrait of Artist as Young Man	The religious and intellectual awakening of young Stephen Dedalus.	Fiction	"Intellectual, Philosophical"	1916	250	3.6	"Audible, Apple Books"
+226	Possession	Two modern-day scholars uncover a secret love affair between two Victorian poets.	Fiction	"Intellectual, Romantic"	1990	511	3.9	"Audible, Google Play Books"
+227	"Poverty, by America"	Explores why poverty persists in the United States and how we can end it.	Non-Fiction	"Analytical, Realistic"	2023	288	4.2	"Amazon Kindle, Physical Copy"
+228	Pride and Prejudice	The turbulent relationship between Elizabeth Bennet and the wealthy Fitzwilliam Darcy.	Fiction	"Romantic, Relaxing"	1813	279	4.3	"Amazon Kindle, Physical Copy"
+229	Prince and the Pauper	Two young boys in London who look identical swap lives for a day.	Fiction	"Funny, Classic"	1881	300	3.9	Apple Books
+230	Principles	Life and work principles from the founder of Bridgewater Associates.	Non-Fiction	"Practical, Analytical"	2017	592	4.1	"Physical Copy, Audible"
+231	Project Hail Mary	A lone astronaut must save the earth from an extinction-level event.	Fiction	"Visionary, Intense"	2021	478	4.7	Google Play Books
+232	Prophet Song	A mother in Dublin must protect her family as the country descends into tyranny.	Fiction	"Dark, Intense"	2023	320	4	Amazon Kindle
+233	P??re Goriot	The lives of several people living in a boarding house in 19th-century Paris.	Fiction	"Dramatic, Realistic"	1835	300	3.9	Google Play Books
+234	Quiet	The power of introverts in a world that can't stop talking.	Non-Fiction	"Analytical, Informative"	2012	352	4.1	"Google Play Books, Amazon Kindle"
+235	Quiet: The Power of Introverts	Explores the power of introverts in a world that can't stop talking.	Non-Fiction	"Analytical, Informative"	2012	352	4.1	Audible
+236	Range	Why generalists triumph in a specialized world.	Non-Fiction	"Analytical, Eye-Opening"	2019	352	4.2	"Audible, Amazon Kindle"
+237	Ready Player One	A teenager searches for an Easter egg in a worldwide virtual reality game.	Fiction	"Visionary, Narrative-Driven"	2011	384	4.2	"Apple Books, Audible"
+238	Recursion	Memory becomes a reality in this mind-bending thriller.	Fiction	"Intense, Visionary"	2019	336	4.2	"Apple Books, Amazon Kindle"
+239	Red Badge of Courage	A young soldier's experience during the American Civil War.	Fiction	"Intense, Realistic"	1895	200	3.6	Apple Books
+240	Red Rising	A lowly miner on Mars infiltrates the elite class to bring them down.	Fiction	"Epic, Intense"	2014	382	4.3	"Audible, Apple Books"
+241	Red and the Black	A young man's climb in French society through talent and ambition.	Fiction	"Intellectual, Dramatic"	1830	500	3.8	Audible
+242	Remarkably Bright Creatures	A widow forms an unlikely bond with a giant Pacific octopus at an aquarium.	Fiction	"Wholesome, Emotional"	2022	368	4.5	Amazon Kindle
+243	Return of the Native	A woman's return to her country home leads to tragic consequences.	Fiction	"Dark, Dramatic"	1878	500	3.8	"Google Play Books, Physical Copy"
+244	Robinson Crusoe	A man is shipwrecked on a desert island and survives.	"Fiction, Adventure"	"Adventurous, Classic"	1719	300	3.5	Google Play Books
+245	Room	"To five-year-old Jack, Room is the world. To his Ma, it is a prison for seven years."	Fiction	"Emotional, Intense"	2010	321	4	"Amazon Kindle, Apple Books"
+246	Sapiens	A brief history of humankind from the Stone Age to the present.	Non-Fiction	"Informative, Philosophical"	2011	443	4.4	"Apple Books, Google Play Books"
+247	Sapiens: A Brief History of Humankind	Explores the history of humankind from the Stone Age to the twenty-first century.	Non-Fiction	"Informative, Philosophical"	2011	443	4.4	Apple Books
+248	Scarlet Letter	A woman wears the letter 'A' as punishment in a Puritan community.	Fiction	"Dark, Dramatic"	1850	238	3.4	"Amazon Kindle, Physical Copy"
+249	Scary Smart	The future of Artificial Intelligence and how you can save our world.	Non-Fiction	"Visionary, Eye-Opening"	2021	352	4.1	"Audible, Amazon Kindle"
+250	Sea of Tranquility	"A novel about time travel, plague, and the enduring power of art."	Fiction	"Visionary, Melancholic"	2022	272	4.1	"Audible, Apple Books"
+251	Secret History	A group of misfits at an elite college discover a new way of thinking.	Fiction	"Dark, Intellectual"	1992	559	4.1	"Amazon Kindle, Apple Books"
+252	Sense and Sensibility	The lives and loves of the Dashwood sisters in 19th-century England.	Fiction	"Romantic, Classic"	1811	350	4.1	Apple Books
+253	Seveneves	"A catastrophic event leaves Earth a ticking time bomb, and humanity heads for the stars."	Fiction	"Epic, Visionary"	2015	880	4	"Apple Books, Audible"
+254	Shantaram	A convict escapes from prison and flees to India.	Fiction	"Epic, Narrative-Driven"	2003	936	4.2	Amazon Kindle
+255	Shoe Dog	The story of the founder of Nike and the early days of the company.	Non-Fiction	"Inspirational, Narrative-Driven"	2016	400	4.5	Apple Books
+256	Shuggie Bain	A young boy grows up in 1980s Glasgow with his alcoholic mother.	Fiction	"Emotional, Gritty"	2020	430	4.3	"Amazon Kindle, Audible"
+257	Slaughterhouse-Five	A satirical novel about the life of Billy Pilgrim and his experiences in WWII.	Fiction	"Experimental, Dark-Humor"	1969	215	4.1	Audible
+258	Small Axe	Anthology set from the 60s to 80s telling personal stories from London's West Indian community.	Fiction	"Inspirational, Realistic"	2020	300	3.9	"Amazon Kindle, Apple Books"
+259	Small Giants	Companies that choose to be great instead of big.	Non-Fiction	"Practical, Visionary"	2006	272	4	Google Play Books
+260	Small Things Like These	A story of a man's moral dilemma in a small Irish town in the 1980s.	Fiction	"Emotional, Reflective"	2021	128	4.3	"Apple Books, Physical Copy"
+261	Snow Crash	"In a near-future America, a pizza delivery man becomes a samurai in the Metaverse."	Fiction	"Visionary, Narrative-Driven"	1992	470	4	"Physical Copy, Apple Books"
+262	Some People Need Killing	A memoir of the author's experiences covering the war on drugs in the Philippines.	Non-Fiction	"Powerful, Intense"	2023	448	4.5	Apple Books
+263	Song of Achilles	A retelling of the myth of Achilles and Patroclus and their tragic love story.	Fiction	"Emotional, Romantic"	2011	352	4.4	"Apple Books, Google Play Books"
+264	Sons and Lovers	A young man's struggle to find his own identity and independence from his mother.	Fiction	"Reflective, Emotional"	1913	500	3.8	"Audible, Amazon Kindle"
+265	Sound and the Fury	The story of the Compson family told from multiple perspectives.	Fiction	"Experimental, Dramatic"	1929	300	3.8	Apple Books
+266	Start with Why	How great leaders inspire everyone to take action.	Non-Fiction	"Inspirational, Practical"	2009	256	4.1	Physical Copy
+267	Station Eleven	"A post-apocalyptic saga spanning timelines, telling stories of survivors of a flu."	Fiction	"Thought-Provoking, Emotional"	2014	333	4.1	"Apple Books, Audible"
+268	Stella Maris	"The companion novel to The Passenger, focusing on a young woman in a psychiatric facility."	Fiction	"Intellectual, Melancholic"	2022	208	3.9	"Google Play Books, Apple Books"
+269	Steppenwolf	The spiritual journey of a man who feels split between his human and wolf sides.	Fiction	"Dark, Philosophical"	1927	256	4.1	"Audible, Physical Copy"
+270	Stone Blind	A retelling of the myth of Medusa from her own perspective.	Fiction	"Powerful, Dark"	2022	384	4	"Physical Copy, Amazon Kindle"
+271	Strength in What Remains	A young man escapes civil war in Burundi and arrives in NYC with $200.	Non-Fiction	"Inspirational, Realistic"	2009	288	4.1	Apple Books
+272	Sunrise on the Reaping	The story of the 50th Hunger Games and the rise of Haymitch Abernathy.	Fiction	"Dark, Intense"	2025	410	4.4	Audible
+273	Swiss Family Robinson	A family is shipwrecked on a desert island and must learn to survive.	Fiction	"Adventurous, Wholesome"	1812	400	3.8	Apple Books
+274	Table for Two	"A collection of stories set in New York and Hollywood, exploring the lives of various characters."	Fiction	"Reflective, Realistic"	2024	464	4.2	Audible
+275	Tenth of December	A collection of stories that explore the human condition in absurd ways.	Fiction	"Experimental, Satirical"	2013	251	3.9	Amazon Kindle
+276	Tess of the d'Urbervilles	A young woman's struggles against social expectations and tragedy.	Fiction	"Dark, Emotional"	1891	500	3.8	"Amazon Kindle, Google Play Books"
+277	The 48 Laws of Power	Distills three thousand years of the history of power into 48 laws.	Non-Fiction	"Analytical, Intense"	1998	452	4.2	Audible
+278	The 5 AM Club	"Own your morning, elevate your life through a daily routine."	Non-Fiction	"Practical, Inspirational"	2018	336	3.8	Physical Copy
+279	The 7 Habits of Highly Effective People	Presents a principle-centered approach for solving personal and professional problems.	Non-Fiction	"Practical, Inspirational"	1989	381	4.1	Audible
+280	The Adventures of Tom Sawyer	Boyhood adventures on the Mississippi River in the 19th century.	Fiction	"Adventurous, Classic"	1876	224	4	Google Play Books
+281	The Alchemist	A shepherd boy travels from Spain to Egypt in search of a treasure.	Fiction	"Inspirational, Hopeful"	1988	163	3.9	Amazon Kindle
+282	The Alienist	A psychologist and a newspaper illustrator team up to catch a serial killer in 1896 New York.	Fiction	"Dark, Intense"	1994	496	4	Apple Books
+283	The Anxious Generation	How the rewiring of childhood by technology is causing an epidemic of mental illness.	Non-Fiction	"Analytical, Eye-Opening"	2024	400	4.3	Amazon Kindle
+284	The Art of War	An ancient Chinese military treatise on strategy.	Non-Fiction	"Technical, Visionary"	-500	100	4.1	"Physical Copy, Amazon Kindle"
+285	The Bee Sting	A multi-generational saga following an Irish family as their lives begin to unravel.	Fiction	"Dark, Emotional"	2023	656	4	"Audible, Apple Books"
+286	The Bell Jar	A young woman's descent into mental illness during the 1950s.	Fiction	"Emotional, Melancholic"	1963	250	4	Google Play Books
+287	The Body	A guide for occupants about the human body.	Non-Fiction	"Informative, Relaxing"	2019	464	4.2	"Audible, Physical Copy"
+288	The Body Keeps the Score	"Explores the effects of trauma on the body and mind, and how we can heal."	Non-Fiction	"Technical, Emotional"	2014	464	4.5	"Physical Copy, Google Play Books"
+289	The Bone Clocks	"A story of a woman whose life is intertwined with a secret, timeless war."	Fiction	"Epic, Visionary"	2014	624	3.8	"Audible, Physical Copy"
+290	The Book Thief	A young girl in Nazi Germany finds comfort by stealing books.	Fiction	"Emotional, Melancholic"	2005	552	4.4	Amazon Kindle
+291	The Bridges of Madison County	A brief and intense love affair between a photographer and an Italian housewife.	Fiction	"Romantic, Emotional"	1992	171	3.4	"Google Play Books, Apple Books"
+292	The Brief Wondrous Life of Oscar Wao	The life of an overweight Dominican boy in New Jersey who is obsessed with sci-fi.	Fiction	"Vibrant, Experimental"	2007	335	3.9	"Google Play Books, Physical Copy"
+293	The Brothers Karamazov	A passionate philosophical novel entering into ethical debates of God and morality.	Fiction	"Philosophical, Intense"	1880	796	4.3	Physical Copy
+294	The Call of the Wild	A domestic dog's journey as he adapts to life as a sled dog in the Yukon.	Fiction	"Classic, Adventurous"	1903	160	4	"Google Play Books, Apple Books"
+295	The Catcher in the Rye	A teenager's two days in New York City after being expelled from prep school.	Fiction	"Melancholic, Realistic"	1951	234	3.8	"Physical Copy, Google Play Books"
+296	The Code Breaker	"Jennifer Doudna, Gene Editing, and the Future of the Human Race."	Non-Fiction	"Informative, Visionary"	2021	560	4.3	"Amazon Kindle, Audible"
+297	The Coming Wave	"Technology, Power, and the Twenty-first Century's Greatest Dilemma."	Non-Fiction	"Visionary, Technical"	2023	432	4.2	Physical Copy
+298	The Complete Sherlock Holmes	The complete collection of cases featuring the famous consulting detective.	Fiction	"Classic, Intellectual"	1892	1100	4.5	"Audible, Apple Books"
+299	The Count of Monte Cristo	A man wrongfully imprisoned escapes to find treasure and exact revenge.	Fiction	"Epic, Intense"	1844	1276	4.2	"Physical Copy, Google Play Books"
+300	The Courage to Be Disliked	Explores the philosophy of Alfred Adler through a dialogue.	Non-Fiction	"Philosophical, Challenging"	2013	288	4.1	Audible
+301	The Covenant of Water	"A multi-generational saga set in South India, following a family's history and their connection to water."	Fiction	"Emotional, Epic"	2023	736	4.6	"Google Play Books, Apple Books"
+302	The Creative Act	"A way of being, explores the creative process and how we can tap into our inspiration."	Non-Fiction	"Inspirational, Philosophical"	2023	432	4.4	Physical Copy
+303	The Da Vinci Code	A mystery thriller following Robert Langdon as he investigates a murder in the Louvre.	Fiction	"Fast-Paced, Intellectual"	2003	454	3.9	Amazon Kindle
+304	The Daily Stoic	366 days of Stoic insights and exercises.	Non-Fiction	"Reflective, Practical"	2016	416	4.4	Physical Copy
+305	The Decameron	A collection of 100 stories told by a group of young people escaping the plague.	Fiction	"Wacky, Classic"	1353	800	3.9	Audible
+306	The Demon of Unrest	"A saga of hubris, betrayal, and duty in the months leading up to the Civil War."	Non-Fiction	"Intense, Narrative-Driven"	2024	592	4.4	Google Play Books
+307	The English Patient	Four very different people are brought together in an Italian villa toward the end of WWII.	Fiction	"Emotional, Romantic"	1992	320	3.8	"Google Play Books, Audible"
+308	The Familiar	"Set in the Spanish Golden Age, a young woman with a magical secret is caught in a web of power and intrigue."	Fiction	"Epic, Visionary"	2024	400	4	"Physical Copy, Amazon Kindle"
+309	The Famished Road	A spirit child in a Nigerian city navigates the boundaries between life and the spirit world.	Fiction	"Experimental, Poetic"	1991	500	3.7	"Google Play Books, Audible"
+310	The Fault in Our Stars	Hazel has never been anything but terminal until a miracle buys her years.	Fiction	"Emotional, Romantic"	2012	313	4.2	"Audible, Amazon Kindle"
+311	The Furrows	A story of grief and a missing brother told through multiple perspectives.	Fiction	"Emotional, Experimental"	2022	288	3.7	Amazon Kindle
+312	The Gene	The story of the quest to decipher the master-code that defines humans.	Non-Fiction	"Informative, Technical"	2016	608	4.3	Amazon Kindle
+313	The Gene: An Intimate History	The story of the quest to decipher the master-code that makes and defines humans.	Non-Fiction	"Informative, Technical"	2016	608	4.3	"Physical Copy, Amazon Kindle"
+314	The Girl with the Dragon Tattoo	A journalist and a hacker team up to solve a 40-year-old disappearance.	Fiction	"Intense, Dark"	2005	465	4.1	Google Play Books
+315	The Giver	A twelve-year-old boy is chosen to be the Receiver of Memory in a seemingly perfect world.	Fiction	"Visionary, Thought-Provoking"	1993	180	4.1	"Physical Copy, Apple Books"
+316	The Glass Castle	"A memoir about the author's unconventional, poverty-stricken upbringing by her eccentric parents."	Non-Fiction	"Emotional, Inspirational"	2005	288	4.3	"Apple Books, Google Play Books"
+317	The Glass Hotel	"A story of money, white-collar crime, and the ghosts of the past."	Fiction	"Mysterious, Reflective"	2020	300	3.7	"Apple Books, Amazon Kindle"
+318	The God Delusion	Dawkins explores the concept of God and religion from a scientific perspective.	Non-Fiction	"Analytical, Challenging"	2006	416	3.9	"Apple Books, Amazon Kindle"
+319	The Goldfinch	A young boy in NYC survives an accident and is drawn into the secret world of art.	Fiction	"Emotional, Dramatic"	2013	771	3.9	"Amazon Kindle, Google Play Books"
+320	The Grapes of Wrath	A poor family from Oklahoma travels to California during the Great Depression.	Fiction	"Emotional, Gritty"	1939	464	4	Physical Copy
+321	The Great Gatsby	The story of the mysteriously wealthy Jay Gatsby and his love for Daisy Buchanan.	Fiction	"Melancholic, Romantic"	1925	180	3.9	"Audible, Apple Books"
+322	The Great Railway Bazaar	A journalist's journey by train across Asia and Europe.	Non-Fiction	"Informative, Narrative-Driven"	1975	400	4	"Google Play Books, Apple Books"
+323	The Guest List	"Friends gather for a wedding on a remote island, only for a murder to occur."	Fiction	"Suspenseful, Dark"	2020	313	3.8	"Physical Copy, Audible"
+324	The Handmaid's Tale	"In a near-future New England, a woman is forced into sexual servitude."	Fiction	"Dark, Thought-Provoking"	1985	311	4.1	Google Play Books
+325	The Hard Thing About Hard Things	Building a business when there are no easy answers.	Non-Fiction	"Practical, Realistic"	2014	304	4.2	Physical Copy
+326	The Hate U Give	A student witnesses the fatal shooting of her friend by a police officer.	Fiction	"Intense, Powerful"	2017	444	4.5	"Physical Copy, Google Play Books"
+327	The Heaven & Earth Grocery Store	"In 1972, when workers in Pottstown, Pennsylvania, find a skeleton at the bottom of a well, the community's secrets are revealed."	Fiction	"Wholesome, Narrative-Driven"	2023	400	4.2	Audible
+328	The Help	The story of Black maids working in white households in the 1960s South.	Fiction	"Inspirational, Realistic"	2009	464	4.5	"Amazon Kindle, Google Play Books"
+329	The History of Tom Jones	A young man's adventures as he tries to find his way in the world.	Fiction	"Funny, Classic"	1749	900	3.7	"Physical Copy, Audible"
+330	The Hitchhiker's Guide to the Galaxy	A man's adventures through space after Earth is destroyed.	Fiction	"Funny, Wacky"	1979	200	4.2	Amazon Kindle
+331	The Hobbit	"Bilbo Baggins, a hobbit, is swept into a quest to raid a dragon's treasure hoard."	Fiction	"Epic, Relaxing"	1937	310	4.3	Google Play Books
+332	The House in the Cerulean Sea	A social worker evaluates a remote orphanage for magical children and finds a home.	Fiction	"Wholesome, Heartwarming"	2020	396	4.5	"Physical Copy, Apple Books"
+333	The House of the Seven Gables	A family is cursed by a judge during the Salem witch trials.	Fiction	"Dark, Classic"	1851	300	3.5	"Amazon Kindle, Audible"
+334	The Housemaid	A housemaid for a wealthy family finds that things are not as they seem.	Fiction	"Suspenseful, Fast-Paced"	2022	336	4.3	"Amazon Kindle, Audible"
+335	The Hunchback of Notre Dame	A tragic story of obsession and social injustice in 15th-century Paris.	Fiction	"Dark, Emotional"	1831	500	4	Amazon Kindle
+336	The Hunger Games	"In a dystopian future, teens are forced to participate in a televised battle to the death."	Fiction	"Intense, Thought-Provoking"	2008	374	4.3	"Audible, Google Play Books"
+337	The Immortal Life of Henrietta Lacks	"The story of Henrietta Lacks and the immortal cell line, known as HeLa, that came from her."	Non-Fiction	"Intellectual, Emotional"	2010	370	4.1	Google Play Books
+338	The Imperfectionists	The lives of the staff of an English-language newspaper in Rome.	Fiction	"Realistic, Melancholic"	2010	272	3.5	"Apple Books, Physical Copy"
+339	The Interestings	A group of teenagers at an artsy summer camp in the 1970s face adulthood.	Fiction	"Realistic, Melancholic"	2013	468	3.5	Audible
+340	The Invisible Life of Addie LaRue	A woman makes a deal to live forever but is forgotten by everyone she meets.	Fiction	"Melancholic, Romantic"	2020	442	4.2	"Apple Books, Audible"
+341	The Jungle	The harsh conditions and exploited lives of immigrants in Chicago's meatpacking district.	Fiction	"Intense, Realistic"	1906	400	3.7	Apple Books
+342	The Jungle Book	A collection of stories about a boy raised by wolves in the Indian jungle.	Fiction	"Whimsical, Adventurous"	1894	250	4	"Amazon Kindle, Apple Books"
+343	The Kite Runner	A story of an unlikely friendship and redemption set against war-torn Afghanistan.	Fiction	"Emotional, Powerful"	2003	371	4.3	Audible
+344	The Last of the Mohicans	A story set during the French and Indian War in the American wilderness.	Fiction	"Adventurous, Classic"	1826	400	3.7	Google Play Books
+345	The Let Them Theory	A tool for managing stress and letting go of what you can't control.	Non-Fiction	"Practical, Hopeful"	2024	280	4.6	Google Play Books
+346	The Lincoln Highway	"Four boys on a road trip across America in the 1950s, searching for a new beginning."	Fiction	"Epic, Narrative-Driven"	2021	592	4.2	Physical Copy
+347	"The Lion, the Witch and the Wardrobe"	Four children enter a magical land through a wardrobe to battle a witch.	Fiction	"Whimsical, Epic"	1950	200	4.2	Google Play Books
+348	The Little Prince	A philosophical tale of a young prince who travels between various planets.	Fiction	"Whimsical, Philosophical"	1943	96	4.3	"Physical Copy, Google Play Books"
+349	The Lord of the Rings	A young hobbit is tasked with destroying a powerful ring to save Middle-earth from the Dark Lord Sauron.	Fiction	"Epic, Narrative-Driven"	1954	1178	4.5	"Apple Books, Physical Copy"
+350	The Lovely Bones	"The story of a young girl who, after being murdered, watches over her family from heaven."	Fiction	"Emotional, Melancholic"	2002	328	3.8	"Google Play Books, Audible"
+351	The Maid	A socially awkward maid at a grand hotel becomes a suspect in a murder.	Fiction	"Wholesome, Mysterious"	2022	304	3.9	"Google Play Books, Amazon Kindle"
+352	The Marriage Plot	A love triangle between three college graduates in the early 1980s.	Fiction	"Intellectual, Romantic"	2011	406	3.5	"Physical Copy, Apple Books"
+353	The Marriage Portrait	A woman in Renaissance Italy is forced into a marriage that may be her undoing.	Fiction	"Intense, Atmospheric"	2022	352	4.1	"Audible, Google Play Books"
+354	The Martian	An astronaut becomes stranded on Mars after his team assume he is dead.	Fiction	"Intellectual, Exciting"	2014	369	4.4	Physical Copy
+355	The Message	Explores the power of stories and how they can be used to control or liberate us.	Non-Fiction	"Thought-Provoking, Philosophical"	2024	320	4.3	"Amazon Kindle, Audible"
+356	The Midnight Library	A woman discovers a library where she can explore the different lives she could have lived.	Fiction	"Reflective, Hopeful"	2020	304	4	Google Play Books
+357	The Millionaire Fastlane	Crack the code to wealth and live rich for a lifetime.	Non-Fiction	"Practical, Challenging"	2011	336	4.3	Google Play Books
+358	The Name of the Wind	A young man grows up to become the most notorious wizard the world has ever seen.	Fiction	"Epic, Narrative-Driven"	2007	662	4.5	"Audible, Physical Copy"
+359	The New Cold War	Explores the growing tensions between the world's superpowers and the future of global politics.	Non-Fiction	"Analytical, Visionary"	2024	400	4	Google Play Books
+360	The Nickel Boys	Two Black teenagers at an abusive reform school in 1960s Florida form a bond.	Fiction	"Emotional, Dark"	2019	213	4.2	Amazon Kindle
+361	The Night Circus	A mysterious circus appears without warning and features a competition between two magicians.	Fiction	"Visionary, Romantic"	2011	387	4	Physical Copy
+362	The Nightingale	The story of two sisters in France during WWII and their struggle to resist occupation.	Fiction	"Emotional, Powerful"	2015	440	4.6	"Apple Books, Google Play Books"
+363	The Ocean at the End of the Lane	A man returns home and remembers strange events of his past.	Fiction	"Whimsical, Dark"	2013	181	4	Physical Copy
+364	The Old Man and the Sea	An elderly fisherman's battle with a giant marlin in the Gulf Stream.	Fiction	"Reflective, Classic"	1952	128	3.8	Physical Copy
+365	The Omnivore's Dilemma	Explores the social and environmental impact of our food choices.	Non-Fiction	"Informative, Eye-Opening"	2006	450	4.1	Apple Books
+366	The Outsiders	"The rivalry between two gangs, the Greasers and the Socs."	Fiction	"Realistic, Emotional"	1967	192	4.1	Amazon Kindle
+367	The Overstory	A novel about nine Americans whose unique life experiences with trees bring them together.	Fiction	"Thought-Provoking, Emotional"	2018	512	4.1	Apple Books
+368	The Passage	A security-breach at a secret U.S. facility unleashes a military experiment.	Fiction	"Dark, Intense"	2010	766	4	"Amazon Kindle, Audible"
+369	The Passenger	A salvage diver becomes embroiled in a mystery after investigating a plane crash.	Fiction	"Dark, Philosophical"	2022	400	3.8	"Apple Books, Google Play Books"
+370	The Picture of Dorian Gray	A young man sells his soul so that his portrait will age instead of him.	Fiction	"Dark, Philosophical"	1890	254	4.1	"Apple Books, Audible"
+371	The Pilgrim's Progress	A man's allegorical journey from the City of Destruction to the Celestial City.	Fiction	"Classic, Philosophical"	1678	324	3.8	"Google Play Books, Physical Copy"
+372	The Power of Habit	Why we do what we do in life and business.	Non-Fiction	"Informative, Practical"	2012	416	4.1	Google Play Books
+373	The Prince	A 16th-century political treatise on how to acquire and keep power.	Non-Fiction	"Analytical, Dark"	1532	150	3.9	Physical Copy
+374	The Prince and the Pauper	Two young boys in London who look identical swap lives for a day.	Fiction	"Funny, Classic"	1881	300	3.9	Apple Books
+375	The Psychology of Money	"Timeless lessons on wealth, greed, and happiness."	Non-Fiction	"Analytical, Eye-Opening"	2020	252	4.4	"Amazon Kindle, Physical Copy"
+376	The Red Badge of Courage	A young soldier's experience during the American Civil War.	Fiction	"Intense, Realistic"	1895	200	3.6	Audible
+377	The Red and the Black	A young man's climb in French society through talent and ambition.	Fiction	"Intellectual, Dramatic"	1830	500	3.8	Amazon Kindle
+378	The Reformatory	A supernatural thriller set in a notorious reform school in 1950s Florida.	Fiction	"Dark, Intense"	2023	608	4.4	Google Play Books
+379	The Republic	A Socratic dialogue on the nature of justice and the order of the city-state.	Non-Fiction	"Philosophical, Visionary"	-375	400	4	Google Play Books
+380	The Return of the Native	A woman's return to her home in the country leads to tragic consequences.	Fiction	"Dark, Dramatic"	1878	500	3.8	Audible
+381	The Ride of a Lifetime	Lessons learned from 15 years as CEO of the Walt Disney Company.	Non-Fiction	"Inspirational, Narrative-Driven"	2019	272	4.5	Amazon Kindle
+382	The Road	A father and son walk through a post-apocalyptic landscape.	Fiction	"Dark, Emotional"	2006	287	4	Physical Copy
+383	The Round House	A young boy investigates an attack on his mother on a reservation in North Dakota.	Fiction	"Emotional, Gritty"	2012	352	4	Amazon Kindle
+384	The Scarlet Letter	A woman wears the letter 'A' as punishment in a Puritan community.	Fiction	"Dark, Dramatic"	1850	238	3.4	"Apple Books, Google Play Books"
+385	The Secret Garden	An orphaned girl finds a hidden and neglected garden in a Yorkshire estate.	Fiction	"Wholesome, Heartwarming"	1911	300	4.1	Google Play Books
+386	The Secret History	A group of eccentric misfits at an elite college discover a way of thinking and living.	Fiction	"Dark, Intellectual"	1992	559	4.1	Physical Copy
+387	The Sense of an Ending	A man is haunted by his past and the legacy of a childhood friend.	Fiction	"Reflective, Intellectual"	2011	150	3.7	"Amazon Kindle, Audible"
+388	The Seven Husbands of Evelyn Hugo	An aging Hollywood movie icon is ready to tell the whole truth about her glamorous and scandalous life.	Fiction	"Emotional, Narrative-Driven"	2017	389	4.4	"Audible, Physical Copy"
+389	The Seven Moons of Maali Almeida	A ghost travels through war-torn Sri Lanka to solve his own murder.	Fiction	"Dark, Experimental"	2022	400	4	Audible
+390	The Shack	A man who lost his daughter receives a mysterious invitation to the shack where she was murdered.	Fiction	"Emotional, Wholesome"	2007	233	3.7	"Audible, Amazon Kindle"
+391	The Shadow of the Wind	A boy is taken by his father to the Cemetery of Forgotten Books.	Fiction	"Mystery, Narrative-Driven"	2001	487	4.3	"Physical Copy, Google Play Books"
+392	The Silent Patient	A woman shoots her husband and then never speaks another word.	Fiction	"Intense, Dark"	2019	336	4.2	"Amazon Kindle, Apple Books"
+393	The Song of Achilles	A retelling of the Iliad from the perspective of Patroclus and his relationship with Achilles.	Fiction	"Emotional, Romantic"	2011	378	4.4	"Audible, Amazon Kindle"
+394	The Soul's Code	An exploration of the individual's character and fate through psychological analysis.	Non-Fiction	"Visionary, Intellectual"	1996	334	4	Audible
+395	The Sound and the Fury	The story of the Compson family told from multiple perspectives.	Fiction	"Experimental, Dramatic"	1929	300	3.8	Amazon Kindle
+396	The Stranger	A man is tried for a senseless murder in French Algiers.	Fiction	"Philosophical, Intense"	1942	150	4	Google Play Books
+397	The Subtle Art of Not Giving a F*ck	A counterintuitive approach to living a good life.	Non-Fiction	"Practical, Realistic"	2016	224	3.9	"Amazon Kindle, Physical Copy"
+398	The Sun Also Rises	A group of expatriates travel through Europe during the 1920s.	Fiction	"Realistic, Melancholic"	1926	250	3.8	Google Play Books
+399	The Swiss Family Robinson	A family is shipwrecked on a desert island and must learn to survive.	Fiction	"Adventurous, Wholesome"	1812	400	3.8	Amazon Kindle
+400	The Testaments	"A follow-up to the Handmaid's Tale, picking up 15 years later."	Fiction	"Epic, Intense"	2019	419	4.2	Apple Books
+401	The Things They Carried	A collection of linked short stories about a platoon of American soldiers in the Vietnam War.	Fiction	"Emotional, Powerful"	1990	233	4.1	Audible
+402	The Three Musketeers	A young man joins three legendary musketeers in their adventures.	Fiction	"Adventurous, Classic"	1844	700	4.1	Audible
+403	The Tiger's Wife	A young doctor travels to the city where her grandfather died in a war-torn country.	Fiction	"Visionary, Reflective"	2011	338	3.5	Amazon Kindle
+404	The Time Traveler's Wife	A man with a genetic disorder that causes him to time travel and the impact on his marriage.	Fiction	"Romantic, Emotional"	2003	518	4	"Audible, Apple Books"
+405	The Tipping Point	Explores how small things can make a big difference and how ideas spread.	Non-Fiction	"Analytical, Informative"	2000	279	4	Audible
+406	The Trial	"A man is arrested and prosecuted by a remote, inaccessible authority."	Fiction	"Dark, Mysterious"	1925	200	3.8	Audible
+407	The Underground Railroad	A young woman's desperate bid for freedom in the antebellum South.	Fiction	"Epic, Gritty"	2016	306	4	"Physical Copy, Apple Books"
+408	The Vicar of Wakefield	The life of a country vicar and his family as they face misfortune.	Fiction	"Reflective, Classic"	1766	200	3.4	Apple Books
+409	The Wager	"A tale of shipwreck, mutiny and murder on an 18th-century British naval vessel."	Non-Fiction	"Intense, Narrative-Driven"	2023	352	4.5	"Audible, Apple Books"
+410	The War of Art	Break through the blocks and win your inner creative battles.	Non-Fiction	"Practical, Inspirational"	2002	192	4	Physical Copy
+411	The Waste Land	A landmark poem that explores the spiritual decay of the modern world.	Fiction	"Philosophical, Experimental"	1922	50	3.8	"Google Play Books, Audible"
+412	The Wide Wide Sea	"Imperial ambition, first contact and the fateful final voyage of Captain James Cook."	Non-Fiction	"Informative, Narrative-Driven"	2024	496	4.3	"Audible, Physical Copy"
+413	The Wind in the Willows	The adventures of several animal friends living on a riverbank.	Fiction	"Whimsical, Fun"	1908	200	4.1	Google Play Books
+414	The Wizard of Oz	A girl's journey to the Emerald City to find her way home.	Fiction	"Whimsical, Classic"	1900	150	4	Amazon Kindle
+415	The Women	"A story of courage and sacrifice, following a nurse who serves in the Vietnam War."	Fiction	"Emotional, Realistic"	2024	480	4.7	"Apple Books, Google Play Books"
+416	The World Is Flat	"Explores how the world has been flattened by globalization and technology, and what it means."	Non-Fiction	"Informative, Analytical"	2005	488	3.8	"Audible, Amazon Kindle"
+417	The Wright Brothers	The story of the pioneers of flight who changed the world forever.	Non-Fiction	"Inspirational, Informative"	2015	336	4.2	"Google Play Books, Amazon Kindle"
+418	The Year of Magical Thinking	A meditation on the death of the author's husband and the illness of her daughter.	Non-Fiction	"Emotional, Melancholic"	2005	227	4.1	"Amazon Kindle, Google Play Books"
+419	Think Again	The power of knowing what you don't know.	Non-Fiction	"Analytical, Practical"	2021	320	4.2	Apple Books
+420	Thinking in Bets	How to make better decisions in a world of uncertainty by thinking like a poker player.	Non-Fiction	"Analytical, Practical"	2018	288	3.9	Physical Copy
+421	"Thinking, Fast and Slow"	Explores the two systems that drive the way we think.	Non-Fiction	"Technical, Analytical"	2011	499	4.2	"Apple Books, Google Play Books"
+422	Three Musketeers	A young man joins three musketeers in their adventures in 17th-century France.	Fiction	"Adventurous, Classic"	1844	700	4.1	Physical Copy
+423	To Kill a Mockingbird	A story of childhood and the crisis of conscience in the Deep South.	Fiction	"Emotional, Wholesome"	1960	281	4.3	Google Play Books
+424	"Tomorrow, and Tomorrow"	Two friends become creative partners in the world of video game design.	Fiction	"Emotional, Narrative-Driven"	2022	416	4.2	Amazon Kindle
+425	"Tomorrow, and Tomorrow, and Tomorrow"	Two friends become creative partners in the world of video game design.	Fiction	"Emotional, Narrative-Driven"	2022	416	4.2	"Google Play Books, Amazon Kindle"
+426	Transcendent Kingdom	A graduate student investigates the biology of depression and addiction.	Fiction	"Emotional, Intellectual"	2020	264	4.1	"Audible, Amazon Kindle"
+427	Treasure Island	A young boy finds a map to buried treasure and faces dangerous pirates.	Fiction	"Adventurous, Classic"	1883	280	4	Amazon Kindle
+428	Trust	"A novel that explores wealth, power, and the nature of truth through four different perspectives."	Fiction	"Intellectual, Thought-Provoking"	2022	416	4	"Physical Copy, Audible"
+429	Twilight	A teenage girl risks everything when she falls in love with a vampire.	Fiction	"Romantic, Intense"	2005	498	3.6	Amazon Kindle
+430	Ulysses	Follows Leopold Bloom through the streets of Dublin on an ordinary day.	Fiction	"Challenging, Experimental"	1922	730	3.7	Apple Books
+431	Uncle Tom's Cabin	An anti-slavery novel that depicted the reality of African American life.	Fiction	"Powerful, Emotional"	1852	450	3.8	"Physical Copy, Google Play Books"
+432	Utopia	An exploration of a perfect society on a fictional island.	Non-Fiction	"Philosophical, Visionary"	1516	150	3.5	Amazon Kindle
+433	Vanity Fair	Two women navigate their way through English society during the Napoleonic Wars.	Fiction	"Satirical, Classic"	1848	800	3.8	Audible
+434	Verity	A writer finds a disturbing manuscript while finishing a famous author's series.	Fiction	"Dark, Intense"	2018	336	4.3	Apple Books
+435	Vicar of Wakefield	The life of a country vicar and his family as they face misfortune.	Fiction	"Reflective, Classic"	1766	200	3.4	"Amazon Kindle, Audible"
+436	War	"A history of human conflict, from ancient battles to modern warfare."	Non-Fiction	"Informative, Intense"	2024	500	4.1	Amazon Kindle
+437	War and Peace	Events surrounding the French invasion of Russia and its impact.	Fiction	"Epic, Historical"	1869	1200	4.1	"Amazon Kindle, Physical Copy"
+438	Waste Land	A landmark poem exploring the spiritual decay of the modern world.	Fiction	"Philosophical, Experimental"	1922	50	3.8	"Amazon Kindle, Apple Books"
+439	Water for Elephants	An orphan joins a traveling circus as a vet and falls for the star performer.	Fiction	"Romantic, Nostalgic"	2006	335	4.1	"Google Play Books, Amazon Kindle"
+440	Wellness	A novel about a couple who move to the suburbs and struggle with their relationship and their past.	Fiction	"Realistic, Thought-Provoking"	2023	624	3.8	"Amazon Kindle, Google Play Books"
+441	When Breath Becomes Air	A memoir by a neurosurgeon facing a terminal cancer diagnosis.	Non-Fiction	"Emotional, Reflective"	2016	228	4.4	"Google Play Books, Apple Books"
+442	Where the Crawdads Sing	A young woman raised in the marshes of North Carolina becomes a murder suspect.	Fiction	"Melancholic, Narrative-Driven"	2018	384	4.5	"Apple Books, Google Play Books"
+443	White Fang	A wolf-dog's journey from the wild to domestication in the North.	Fiction	"Adventurous, Classic"	1906	300	4	"Amazon Kindle, Audible"
+444	Wild	"The story of a young woman's 1,100-mile solo hike along the Pacific Crest Trail."	Non-Fiction	"Inspirational, Reflective"	2012	315	4	"Audible, Physical Copy"
+445	Wind in the Willows	The adventures of several animal friends living on a riverbank.	Fiction	"Whimsical, Fun"	1908	200	4.1	"Google Play Books, Physical Copy"
+446	Wolf Hall	The rise of Thomas Cromwell in the court of Henry VIII.	Fiction	"Dramatic, Intense"	2009	653	4.2	"Google Play Books, Apple Books"
+447	World War Z	An oral history of the zombie war that nearly ended humanity.	Fiction	"Gritty, Realistic"	2006	342	4	"Google Play Books, Audible"
+448	Wuthering Heights	"A story of passion, jealousy, and revenge set on the wild Yorkshire moors."	Fiction	"Dark, Romantic"	1847	464	3.9	Audible
+449	Yellowface	A struggling author steals her friend's manuscript after she dies.	Fiction	"Dark-Humor, Realistic"	2023	336	4	Audible
+450	Zero to One	"Notes on startups, or how to build the future."	Non-Fiction	"Visionary, Technical"	2014	210	4.2	"Apple Books, Physical Copy"
